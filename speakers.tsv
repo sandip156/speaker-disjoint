@@ -1,0 +1,8 @@
+speaker_id	age_band	gender	dialect	device	consent_status
+spk01	15-20	female	kathmandu	dji_mic	granted
+spk02	35-40	male	kathmandu	dji_mic	granted
+spk03	20-25	female	kathmandu	dji_mic	granted
+spk04	20-25	male	kathmandu	dji_mic	granted
+spk05	15-20	female	kathmandu	dji_mic	granted
+spk06	20-25	female	kathmandu	dji_mic	granted
+spk07	15-20	female	kathmandu	dji_mic	granted

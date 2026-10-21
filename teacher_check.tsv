@@ -1,0 +1,432 @@
+id	speaker_id	domain	audio_filename	newar_sentence	nepali_sentence	verified	notes
+1	spk01	hotels_accommodation	audio_1.wav	चेकआउट थानाबलय् चाबी रिसेप्सनय बियाःगु लाः।	चेकआउट गर्दा चाबी रिसेप्सनमै बुझाउनुपर्छ।	yes	teacher-verified; logged 2026-10-14
+2	spk01	shopping_local_markets	audio_2.wav	थ्व सल उपहार निंति बांला: गु दु	यो सल उपहारका लागि राम्रो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+3	spk01	travel_transportation	audio_3.wav	बिराटनगर वनेगु नाइट बस दु ला मदु ?	बिराटनगर जाने नाइट बस छ कि छैन?	yes	teacher-verified; logged 2026-10-14
+4	spk01	guides_services	audio_4.wav	मजिला एजेन्सी ल्याइबलय् ठगे जुइगु घटना न ताए दइ ।	गलत एजेन्सी छान्दा ठगिने घटना पनि सुनिन्छन्।	yes	teacher-verified; logged 2026-10-14
+5	spk01	food_restaurants	audio_5.wav	ता न्बलय् बजि व द्यौ नयेबलय् यइपुसे च्वनी ।	गर्मीमा चिउरा र दही खाँदा रमाइलो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+6	spk01	shopping_local_markets	audio_6.wav	थ्व थाङ्‌काय् छु क्यनातःगु दु ला ?	यो थाङ्कामा के देखाइएको छ?	yes	teacher-verified; logged 2026-10-14
+7	spk01	guides_services	audio_7.wav	गाइड यः मजूसा एजेन्सी मेम्ह छ्वयाहइ ।	गाइड मन नपरे एजेन्सीले अर्को पठाइदिन्छ।	yes	teacher-verified; logged 2026-10-14
+8	spk01	hotels_accommodation	audio_8.wav	क्वथाय् हिटर नं दुला ?	कोठामा हिटर पनि छ?	yes	teacher-verified; logged 2026-10-14
+9	spk01	directions_navigation	audio_9.wav	इन्टरनेट मदुसा नक्सा मजुइ ।	इन्टरनेट नभएपछि नक्सा चल्दैन।	yes	teacher-verified; logged 2026-10-14
+10	spk01	hotels_accommodation	audio_10.wav	छिपिंके वाली क्वथा दुला ?	तपाईंहरूसँग खाली कोठा छ?	yes	teacher-verified; logged 2026-10-14
+11	spk01	shopping_local_markets	audio_11.wav	न्हापांगु भाव गुलि मगइ , उलि पुले मजिउ ।	पहिलो भाउ जति माग्छन्, त्यति तिर्नु हुँदैन।	yes	teacher-verified; logged 2026-10-14
+12	spk01	hotels_accommodation	audio_12.wav	ताः हाकः गु ई तक च्वनेबलय् भालय् छुट दइ ।	लामो समय बस्दा दरमा छुट मिल्छ।	yes	teacher-verified; logged 2026-10-14
+13	spk01	shopping_local_markets	audio_13.wav	मेगु पसलय नं थुलि दे विचाच्वंगु दइचा।	अर्को पसलले यतिकै दिँदो रहेछ।	yes	teacher-verified; logged 2026-10-14
+14	spk01	tourist_places_culture	audio_14.wav	लोमान्थाङ पुलांगु सीमावद्ध सहर खः।	लोमान्थाङ पुरानो सीमावद्ध सहर हो।	yes	teacher-verified; logged 2026-10-14
+15	spk01	hotels_accommodation	audio_15.wav	क्वथा नम्बर छ सय न्या गन लाः?	कोठा नम्बर एक सय पाँच कता पर्छ?	yes	teacher-verified; logged 2026-10-14
+16	spk01	shopping_local_markets	audio_16.wav	न्यूरोड वसः व लांका न्यायेगु थाय् ख: ।	न्यूरोड कपडा र जुत्ता किन्ने ठाउँ हो।	yes	teacher-verified; logged 2026-10-14
+17	spk01	guides_services	audio_17.wav	टि हाउसय गाइड व पोर्टरया निंतिं नसा सस्तुकं दुइ ।	टि हाउसमा गाइड र पोर्टरका लागि खाना सस्तो दरमा पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+18	spk01	shopping_local_markets	audio_18.wav	थ्व खुकुरी गुगु थासय् दयेकातःगु खः ।	यो खुकुरी कुन ठाउँको बनेको हो?	yes	teacher-verified; logged 2026-10-14
+19	spk01	hotels_accommodation	audio_19.wav	बर्खा यामय् होटलपिं तः धंगु छूट ब्यु ।	बर्खायाममा होटेलहरू ठूलो छुट दिन्छन्।	yes	teacher-verified; logged 2026-10-14
+20	spk01	tourist_places_culture	audio_20.wav	सगरमाथा संसारया हे दकले च्वका जाःगु हिमाल खः।	सगरमाथा विश्वको सबैभन्दा अग्लो हिमाल हो।	yes	teacher-verified; logged 2026-10-14
+21	spk01	hotels_accommodation	audio_21.wav	थन नापं एटीएम मरु, धेवा कया: झ्युसँ ।	यहाँनजिकै एटीएम छैन, नगद बोकेर आउनुहोस्।	yes	teacher-verified; logged 2026-10-14
+22	spk01	tourist_places_culture	audio_22.wav	पशुपतिनाथया दुहां वनेगु शुल्क विदेशीपिन्त गुलि खः?	पशुपतिनाथको प्रवेश शुल्क विदेशीका लागि कति हो?	yes	teacher-verified; logged 2026-10-14
+23	spk01	shopping_local_markets	audio_23.wav	नेपालया कानुनं पुलांगु मूर्ति थें जाःगु वस्तुत पिने यंकेत पुनात गु दु	नेपालको कानुनले पुराना मूर्ति जस्ता वस्तु बाहिर लैजान रोकेको छ।	yes	teacher-verified; logged 2026-10-14
+24	spk01	directions_navigation	audio_24.wav	शौचालय गन ला :?	शौचालय कता पर्छ?	yes	teacher-verified; logged 2026-10-14
+25	spk01	directions_navigation	audio_25.wav	न्यासि वनेवलय लुपुइ चिं तयाः झासँ ।	हिँड्दा बाटोमा चिन्ह राखेर जानुहोस्।	yes	teacher-verified; logged 2026-10-14
+26	spk01	tourist_places_culture	audio_26.wav	बिन्धाबासिनी पोखराया पुलांगु ठ नांजाःगु देगः खः ।	बिन्द्याबासिनी पोखराको पुरानो र प्रसिद्ध मन्दिर हो।	yes	teacher-verified; logged 2026-10-14
+27	spk01	guides_services	audio_27.wav	एजेन्सी ल्यइबलय् दर्ता जुगु कम्पनि व अनुभव स्वयादिसँ ।	एजेन्सी छान्दा दर्ता भएको कम्पनी र अनुभव हेर्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+28	spk01	hotels_accommodation	audio_28.wav	सिङ्गल क्वथा अझ खाली दु ला कि ?	सिङ्गल कोठा अझै खाली छ कि?	yes	teacher-verified; logged 2026-10-14
+29	spk01	food_restaurants	audio_29.wav	कार्ड स्वीकार यानादी ला ?	कार्ड स्वीकार गर्नुहुन्छ?	yes	teacher-verified; logged 2026-10-14
+30	spk01	hotels_accommodation	audio_30.wav	घान्र्दुक गुरुङ संस्कृति अनुभव यायेत होमस्टे दकले बोला:।	घान्द्रुकमा गुरुङ संस्कृति अनुभव गर्न होमस्टे उत्तम छ।	yes	teacher-verified; logged 2026-10-14
+31	spk01	directions_navigation	audio_31.wav	कलंकी पश्चिम येंया मुख्य नाका खः।	कलंकी पश्चिम काठमाडौंको मुख्य नाका हो।	yes	teacher-verified; logged 2026-10-14
+32	spk01	guides_services	audio_32.wav	गाइड लुंपुया खुसी, गाम व भञ्ज्याङ‌या नां कनातः वनी।	गाइडले बाटोका खोला, गाउँ र भन्ज्याङका नाम बताउँदै जान्छन्।	yes	teacher-verified; logged 2026-10-14
+33	spk01	hotels_accommodation	audio_33.wav	बिल बांलाक स्वया: जक पु पुलादिसँ।	बिल राम्ररी जाँचेर मात्र तिर्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+34	spk01	shopping_local_markets	audio_34.wav	स्थानीय हाट बजारय तरकारी व सिसाफसि ताजा ठइ ।	स्थानीय हाट बजारमा तरकारी र फलफूल ताजा आउँछन्।	yes	teacher-verified; logged 2026-10-14
+35	spk01	directions_navigation	audio_35.wav	ठमेलया गल्लीत फुक्क हे छगू हे थें च्वनी ।	ठमेलका गल्लीहरू सबै एकैनासका लाग्छन्।	yes	teacher-verified; logged 2026-10-14
+36	spk01	directions_navigation	audio_36.wav	मुख्य लुँपुइ हे च्वनादिसँ, चीहाकः गु लु प मकायादिसँ । 	मुख्य बाटोमै रहनुहोस्, छोटो बाटो नलिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+37	spk01	directions_navigation	audio_37.wav	नक्सा स्वया न्हासि वसां गल्लीइ अलमल जुई।	नक्सा हेरेर हिँड्दा पनि गल्लीमा झुक्किन्छ।	yes	teacher-verified; logged 2026-10-14
+38	spk01	tourist_places_culture	audio_38.wav	यलया कृष्ण देगः फुक्क हे लोहं दयेकातःगु दु।	पाटनको कृष्ण मन्दिर पूरै ढुङ्गाले बनाइएको छ।	yes	teacher-verified; logged 2026-10-14
+39	spk01	directions_navigation	audio_39.wav	चान्हय गल्लीत म्हसीकेत थाकु जुल ।	राति गल्लीहरू चिन्न गाह्रो भयो।	yes	teacher-verified; logged 2026-10-14
+40	spk01	travel_transportation	audio_40.wav	डोमेस्टिक टर्मिनल अन्तराष्ट्रिय टर्मिनलपाखें गुली ताढ दु ।	डोमेस्टिक टर्मिनल अन्तर्राष्ट्रिय टर्मिनलदेखि कति टाढा छ?	yes	teacher-verified; logged 2026-10-14
+41	spk01	travel_transportation	audio_41.wav	बसय वाइफाइ व चा चार्जिङ पोर्ट दु लाः?	बसमा वाइफाइ र चार्जिङ पोर्ट छ?	yes	teacher-verified; logged 2026-10-14
+42	spk01	food_restaurants	audio_42.wav	किपू नेवाः भ्वय नये वनेगु थाय खः।	किर्तिपुर नेवारी खाना खान जाने ठाउँ हो।	yes	teacher-verified; logged 2026-10-14
+43	spk01	guides_services	audio_43.wav	आइल्यान्ड पिक न्हुगु आरोहणकर्तायगु निंतिं नांजाःगु हिमाल ख।	आइल्यान्ड पिक नयाँ आरोहणकर्ताहरूका लागि लोकप्रिय हिमाल हो।	yes	teacher-verified; logged 2026-10-14
+44	spk01	guides_services	audio_44.wav	मेगु पटक नेपाः बलय् हानं थ्व हे गाइड्यात सते	अर्को पटक नेपाल आउँदा फेरि यही गाइडलाई बोलाउनेछु।	yes	teacher-verified; logged 2026-10-14
+45	spk01	travel_transportation	audio_45.wav	टुरिस्ट बसय् लःया बोत्लल व नयेगु चीज बि	टुरिस्ट बसमा पानीको बोतल र खानेकुरा दिन्छन्।	yes	teacher-verified; logged 2026-10-14
+46	spk01	hotels_accommodation	audio_46.wav	होटलय पार्किङया थाय् दु ला ?	होटेलमा पार्किङको ठाउँ छ?	yes	teacher-verified; logged 2026-10-14
+47	spk01	shopping_local_markets	audio_47.wav	थ्व नोट च्यातियाच्वंगु दु, मेगु बियादिसं ।	यो नोट च्यातिएको छ, अर्को दिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+48	spk01	food_restaurants	audio_48.wav	नसा म्हो जक पिका: दयेकादिसँ ।	खाना कम पिरो बनाइदिनुहोस् है।	yes	teacher-verified; logged 2026-10-14
+49	spk01	food_restaurants	audio_49.wav	बुफेय छु छु परिकार तयातःगु दु ?	बुफेमा के के परिकार राखिएका छन्?	yes	teacher-verified; logged 2026-10-14
+50	spk07	shopping_local_markets	audio_50.wav	सामान ज्वनाः वनेगु कायमचा छवयादिसँ	सामान बोकेर लैजाने केटो पठाइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+51	spk07	travel_transportation	audio_51.wav	सुनौली नाका जुया भारत वने फई।	सुनौली नाका हुँदै भारत जान सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+52	spk07	tourist_places_culture	audio_52.wav	तीज कुन्हु मिसात रातुगु पारि फिनाः प्याखं दु‌गु खः।	तीजमा महिलाहरू रातो सारी लगाएर नाच्छन्।	yes	teacher-verified; logged 2026-10-14
+53	spk07	hotels_accommodation	audio_53.wav	टि हाउसय ल्हुइगु ताःहागु ल या शुल्क पाचां पुगुमाः।	टि हाउसमा नुहाउने गरम पानीको शुल्क छुट्टै तिर्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+54	spk07	shopping_local_markets	audio_54.wav	मोहनी न्हुय बजारय तसकं मनूत मुँई।	दशैं अगाडि बजारमा ठूलो भीड लाग्छ।	yes	teacher-verified; logged 2026-10-14
+55	spk07	tourist_places_culture	audio_55.wav	बह‌्नी बौद्धनाथय मत च्याका: पूजा याइगु खः।	बेलुका बौद्धनाथमा दियो बालेर पुजा गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+56	spk07	guides_services	audio_56.wav	जाँच चौकीय परमिट व टिम्स कार्ड क्यनेमाः।	जाँच चौकीमा परमिट र टिम्स कार्ड देखाउनुपर्छ।	yes	teacher-verified; logged 2026-10-14
+57	spk07	travel_transportation	audio_57.wav	यात्रा वनेबलय नयेगु व ल जि है ज्वनाः वाँदिसँ।	यात्रा गर्दा खानेकुरा र पानी आफैँ बोकेर लैजानुहोस्।	yes	teacher-verified; logged 2026-10-14
+58	spk07	guides_services	audio_58.wav	गाइड साहेब, थौ गुलि घण्टा न्यासि वनेगु खः?	गाइड साहेब, आज कति घण्टा हिँड्ने हो?	yes	teacher-verified; logged 2026-10-14
+59	spk04	tourist_places_culture	audio_59.wav	ये स्वनिगलय स्वयेबह गु छु छु थाय्यात दु?	काठमाडौं उपत्यकामा हेर्नलायक के के ठाउँहरू छन्?	yes	teacher-verified; logged 2026-10-14
+60	spk04	travel_transportation	audio_60.wav	थ्व बस गु गु थासय दिकी?	यो बस कुन कुन ठाउँमा रोकिन्छ?	yes	teacher-verified; logged 2026-10-14
+61	spk04	hotels_accommodation	audio_61.wav	थ्व होटल गुगल म्यापय बांलाःगु रेटिङ का गु दु	यो होटेल गुगल म्यापमा राम्रो रेटिङ पाएको छ।	yes	teacher-verified; logged 2026-10-14
+62	spk04	guides_services	audio_62.wav	ठगे जुगु अवस्थाय पर्यटन प्रहरीइ उजुरी बिये जिउँ ।	ठगिएको अवस्थामा पर्यटन प्रहरीमा उजुरी दिन सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+63	spk04	tourist_places_culture	audio_63.wav	तुङ्‌बोचे गुम्बा एभरेष्ट क्षेत्रया मू गुम्बा खः।	तुङबोचे गुम्बा एभरेस्ट क्षेत्रको प्रमुख गुम्बा हो।	yes	teacher-verified; logged 2026-10-14
+64	spk04	shopping_local_markets	audio_64.wav	छत्व हे पसलय् दिमते, निगू-स्वंगू पसल्या भाः लनादिसँ	एउटै पसलमा नरोकिनुहोस्, दुईतीन पसलको भाउ तुलना गर्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+65	spk04	travel_transportation	audio_65.wav	कोटेश्वर ठनेगु माइक्रो थन हे वनीगु खःला?	कोटेश्वर जाने माइक्रो यहीँबाट हिँड्छ कि?	yes	teacher-verified; logged 2026-10-14
+66	spk04	hotels_accommodation	audio_66.wav	परिवारनापं वयागु त धंगु क्ठया मा	परिवारसँग आएको छु, ठूलो कोठा चाहिन्छ।	yes	teacher-verified; logged 2026-10-14
+67	spk04	tourist_places_culture	audio_67.wav	इलामया श्रीअन्तु सुयोदय स्वये न्हयै पुसे च्वनी	इलामको श्रीअन्तुबाट सूर्योदय हेर्न रमाइलो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+68	spk04	food_restaurants	audio_68.wav	जितः झोल मःम व कोट मःम निगुलिं यः।	मलाई झोल मम: र कोटे मम: दुवै मन पर्छ।	yes	teacher-verified; logged 2026-10-14
+69	spk04	food_restaurants	audio_69.wav	लिहां वयेवलय् नेपाली चिया व मम या स्वा न्हयावले लुमनाच्वनी	फर्कँदा नेपाली चिया र मम: को स्वाद सधैँ याद रहिरहन्छ।	yes	teacher-verified; logged 2026-10-14
+70	spk04	guides_services	audio_70.wav	गाइड हे यात्राया बांला : गु किपात कयाबी	गाइडले नै यात्राका राम्रा तस्बिरहरू खिचिदिनुहुन्छ।	yes	teacher-verified; logged 2026-10-14
+71	spk04	hotels_accommodation	audio_71.wav	थ्व फारम भरे यानाः सहि यानादिसँ।	यो फारम भरेर साइन गर्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+72	spk04	tourist_places_culture	audio_72.wav	कञ्चनजङ्‌घा संसारया स्वंगूगु दक्लय् त जा गु च्वापुगुँ खः। 	कञ्चनजंगा विश्वको तेस्रो अग्लो हिमाल हो।	yes	teacher-verified; logged 2026-10-14
+73	spk04	guides_services	audio_73.wav	टिपया ध्यावा सेवा स्वया: थ में हे क्व छीगु खः ।	टिपको रकम सेवा हेरेर आफैँ तोकिन्छ।	yes	teacher-verified; logged 2026-10-14
+74	spk04	shopping_local_markets	audio_74.wav	थौया किनमेल मन हे लयेताल ।	आजको किनमेलले मनै खुसी भयो।	yes	teacher-verified; logged 2026-10-14
+75	spk04	food_restaurants	audio_75.wav	थनया हितियालः त्वनेत सुरक्षित जु ला?	यहाँको धाराको पानी पिउन सुरक्षित छ?	yes	teacher-verified; logged 2026-10-14
+76	spk04	directions_navigation	audio_76.wav	नेपा मितय्स थाय् कनीवलय् पुर्व पश्चिम स्वयां जवखव धायेगु ख	नेपालीहरूले ठेगाना बताउँदा पूर्व पश्चिम भन्दा दायाँ बायाँ भन्छन्।	yes	teacher-verified; logged 2026-10-14
+77	spk04	directions_navigation	audio_77.wav	गल्लीदुने स्वंगू छै लिपा, वँचुगु ध्वाखा दु	गल्लीभित्र तीन घरपछि निलो ढोका छ।	yes	teacher-verified; logged 2026-10-14
+78	spk04	tourist_places_culture	audio_78.wav	बर्खायामय च्वापुगुँ खनेदइ लाकि मदइ	बर्खायाममा हिमाल देखिन्छ कि देखिँदैन?	yes	teacher-verified; logged 2026-10-14
+79	spk04	hotels_accommodation	audio_79.wav	थनया ज्यामीपिंत पाहाँ लसकुस सुसा यायेत तसकं बालाः।	यहाँका स्टाफहरू अतिथिसत्कारमा निकै राम्रा छन्।	yes	teacher-verified; logged 2026-10-14
+80	spk04	guides_services	audio_80.wav	कोपान् गुम्बाय् ध्यान तालिम काये जिउ।	कोपान गुम्पामा ध्यान तालिम लिन सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+81	spk04	shopping_local_markets	audio_81.wav	थ्व अङ्‌गुया या नाप गुलि खः?	यो औँठीको नाप कति हो?	yes	teacher-verified; logged 2026-10-14
+82	spk04	shopping_local_markets	audio_82.wav	हाट बजार सुथय न्हयाना न्हिनय् सिधइ ।	हाट बजार बिहान लागेर दिउँसै सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+83	spk04	travel_transportation	audio_83.wav	भाडा द् हि दुने मिलय्याये फइला ?	भाडा एक हजार रुपैयाँभित्र मिलाउन सकिन्छ?	yes	teacher-verified; logged 2026-10-14
+84	spk04	food_restaurants	audio_84.wav	ठमेलय इटालियन, कोरियन व भारतीय नसा रेष्टुरेन्ट दु ।	ठमेलमा इटालियन, कोरियन र भारतीय खानाका रेस्टुरेन्ट छन्।	yes	teacher-verified; logged 2026-10-14
+85	spk07	tourist_places_culture	audio_85.wav	जनकपुरयात सीताया जन्म स्थाय भा पिइ ।	जानकपुरलाई सीताको जन्मस्थल मानिन्छ।	yes	teacher-verified; logged 2026-10-14
+86	spk07	hotels_accommodation	audio_86.wav	रिसेप्सन चौबिसै घण्टा खुल्ला जुइ ।	रिसेप्सन चौबिसै घण्डा खुला रहन्छ।	yes	teacher-verified; logged 2026-10-14
+87	spk07	guides_services	audio_87.wav	झीगु पुचः या छम्हेसित उचाइया समस्या खने दत।	हाम्रो समूहका एक जनालाई उचाइको समस्या देखा पर्‍यो।	yes	teacher-verified; logged 2026-10-14
+88	spk07	food_restaurants	audio_88.wav	मुस्ताङ्य तः कुया मरि व दिँडो नयेगु याई।	मुस्ताङमा फापरको रोटी र ढिँडो खाइन्छ।	yes	teacher-verified; logged 2026-10-14
+89	spk07	hotels_accommodation	audio_89.wav	घोरेपानीया लजत सिजन्य याक्न जाइ ।	घोरेपानीका लजहरू सिजनमा चाँडै भरिन्छन्।	yes	teacher-verified; logged 2026-10-14
+90	spk07	shopping_local_markets	audio_90.wav	लित काये ज्यूगु रसिद बियादिसँ।	फर्काउन मिल्ने रसिद दिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+91	spk07	guides_services	audio_91.wav	एयरपोर्टय हे सिम काउन्टर दइ ला?	एयरपोर्टमै सिम काउन्टर पाइन्छ कि?	yes	teacher-verified; logged 2026-10-14
+92	spk07	travel_transportation	audio_92.wav	मौसम खराब जुल उडान रद्द जुल ।	मौसम खराब भएर आजको उडान क्यान्सल भयो।	yes	teacher-verified; logged 2026-10-14
+93	spk07	tourist_places_culture	audio_93.wav	अन्नपूर्ण क्षेत्रया लागि ए सी ए पी शुल्क पुलेमाः।	अन्नपूर्ण क्षेत्रका लागि एसीएपी शुल्क तिर्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+94	spk07	tourist_places_culture	audio_94.wav	हनुमानध्वखाया, नां हनुमानया मूति पाखि त गु खः ।	हनुमानढोकाको नाम हनुमानको मूर्तिबाट राखिएको हो।	yes	teacher-verified; logged 2026-10-14
+95	spk07	guides_services	audio_95.wav	बहनी जुइ न्हय् हे निश्चित गामय् थ्यक गु योजना दयेकादिसँ।	रात पर्नुअघि निश्चित गाउँ पुग्ने गरी योजना बनाउनुहोस्।	yes	teacher-verified; logged 2026-10-14
+96	spk07	guides_services	audio_96.wav	गाइड च्वापुगुँतय्गु नां व जा: नं कनाबी।	गाइडले हिमालहरूको नाम र उचाइ पनि बताइदिन्छन्।	yes	teacher-verified; logged 2026-10-14
+97	spk07	food_restaurants	audio_97.wav	छुं धलख्य नां च्वाकायाबियादिस।	कुर्ने लिस्टमा नाम लेखाइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+98	spk07	tourist_places_culture	audio_98.wav	स्वयम्भूया माकतय्सं मि्हचा थ्वके फु, सावधान जुयादिसा	स्वयम्भूका बादरहरूले झोला खोस्न सक्छन्, सावधान रहनुहोस्।	yes	teacher-verified; logged 2026-10-14
+99	spk07	shopping_local_markets	audio_99.wav	कुर्ता सुइत गुलि खर्च तुइदु ?	कुर्ता सिलाउन कति खर्च लाग्छ?	yes	teacher-verified; logged 2026-10-14
+100	spk07	travel_transportation	audio_100.wav	इलाम वनेगु बस बिर्तामोडंय् अः पुक दइ	इलाम जाने बस बिर्तामोडबाट सजिलै पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+101	spk07	directions_navigation	audio_101.wav	यल गुखें वनेगु खः?	पाटन कता जाने हो?	yes	teacher-verified; logged 2026-10-14
+102	spk07	food_restaurants	audio_102.wav	बहनी क: सिइ च्वना : जा नय्बले नापं फय्: आराम दइ 	साँझ छतमा बसेर खाना खाँदा हावासँगै आराम मिल्छ।	yes	teacher-verified; logged 2026-10-14
+103	spk07	directions_navigation	audio_103.wav	गुगल म्याप चयिका : थाय् मालादिसँ।	गुगल म्याप खोलेर ठेगाना खोज्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+104	spk07	directions_navigation	audio_104.wav	विरुवा राजगार्डेन ठमेल्या न्ह्य हे लाः।	विरुवा राजगार्दन ठमेलको मुखमै पर्छ।	yes	teacher-verified; logged 2026-10-14
+105	spk07	tourist_places_culture	audio_105.wav	स्वयम्भूयात छाय माक: देग: धाइगु खः?	स्वयम्भूलाई किन बादर मन्दिर भनिन्छ?	yes	teacher-verified; logged 2026-10-14
+106	spk07	tourist_places_culture	audio_106.wav	शे फोक्सुण्डो डोल्पाथ च्वंगु नेपा: या दकलय त: जा: गु पुखू खः	शे फोक्सुण्डो डोल्पामा रहेको नेपालको सबैभन्दा गहिरो ताल हो।	yes	teacher-verified; logged 2026-10-14
+107	spk07	food_restaurants	audio_107.wav	छोयला नेवा: नसा खः, ला यः पिन्त सिक्क यः।	छ्वेला नेवारी खाना हो, मासु मनपर्नेहरूलाई अत्यन्त मन पर्छ।	yes	teacher-verified; logged 2026-10-14
+108	spk07	hotels_accommodation	audio_108.wav	चिकुलाया इलय अप्व फांगा व फ्वगां ‌छ्ववयाहयादिसँ ।	जाडोको समयमा थप ब्ल्याङ्केट र तकिया पठाइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+109	spk02	culture_festivals	audio_109.wav	यँलाथ्व चौथीकुन्हु चथाःद्यः कथं मिलायात पुजा यानाः चथाः हनी।	यँलाथ्व चौथीकादिन चथाःद्यः अनुसार चन्द्रमालाई पुजा गरेर चथाः मानिन्छ।	yes	teacher-verified; logged 2026-10-14
+110	spk02	culture_festivals	audio_110.wav	चथाःयात नेवाःतय्सं चीधंगु मोहनि धकाः माने याः ।	चथाः लाई नेवाः हरूले सानो दशैं भनेर मान्ने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+111	spk02	culture_festivals	audio_111.wav	चथाः बांलाक महन धाःसा मोहनि नखः नं बांलाक हने खनी मखु धाइ ।	चथाः राम्ररी मानेन भने दशं चाड पनि राम्ररी मान्न पाइदैन भनिन्छ।	yes	teacher-verified; logged 2026-10-14
+112	spk02	culture_festivals	audio_112.wav	उकिं चथाः बांलाक हनाः भ्वय् नयेगु याइ ।	त्यसैले चथाः राम्ररी मानेर भोज खाने गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+113	spk02	culture_festivals	audio_113.wav	चथाः यात गणेश चौथी नं धाइ ।	चथाः लाई गणेश चौथी पनि भनिन्छ ।	yes	teacher-verified; logged 2026-10-14
+114	spk02	religion	audio_114.wav	छाय्धाःसा थ्वकुन्हु हे महाद्यःया कलाः पार्वतीं गणेद्यःया सृष्टि याःगु खः ।	किन भने यो दिनमा नै महादेवको श्रीमती पार्वतीले गणेशको सृष्टि गरेको हो ।	yes	teacher-verified; logged 2026-10-14
+115	spk02	culture_festivals	audio_115.wav	नेवाःतय्सं चथाः यात हुँद्यः धकाः नं धाइ ।	नेवाः हरूले चथाः लाई चोरदेउता भनेर पनि भनिन्छ ।	yes	teacher-verified; logged 2026-10-14
+116	spk02	stories	audio_116.wav	चथाः यात छाय् खँद्यः धाल धइगु बारे छपु बाखं दु ।	चथाः लाई किन चोरदेउता भन्यो भन्ने बारे एउटा कथा छ ।	yes	teacher-verified; logged 2026-10-14
+117	spk02	stories	audio_117.wav	बाखनय् थथे धयातःगु दु ।	कथामा यसरी भनिएको छ ।	yes	teacher-verified; logged 2026-10-14
+118	spk02	stories	audio_118.wav	स्वर्गय् छन्हु द्यःतय्गु सभा जुइत्यंगु जुयाच्वन ।	स्वर्गमा एकदिन देउताहरूको सभा हुनलागेको रहेछ।	yes	teacher-verified; logged 2026-10-14
+119	spk02	stories	audio_119.wav	"छम्हेसिया धाःसा किसिया छ्यं"" धकाः हिस्यानाः खँ ल्हात ।"	"एकजनाका भने हात्तीको टाउको"" भनेर अपमान कुरा गरेछ ।"	yes	teacher-verified; logged 2026-10-14
+120	spk02	stories	audio_120.wav	थःत अथे हिस्याः गुलिं गणेद्यः यात तसकं तं पिहां वल ।	आफूलाई त्यस्तरी अपमानगरेकोले गणेशलाई सार्है रिस उठ्यो ।	yes	teacher-verified; logged 2026-10-14
+121	spk02	stories	audio_121.wav	"वं नं मिलायात “छंत स्वइपिं फुकं खु जुइमा"" धकाः सराः बियाबिल ।"	"उसले पनि चन्द्रमालाई ""तिमीलाई हेर्ने सबै चोर होस्” भनेर श्राप दिइदियो ।"	yes	teacher-verified; logged 2026-10-14
+122	spk02	stories	audio_122.wav	गणेद्यवं अज्याःगु सराः बीवं सुं नं द्यःपिंसं मिलायात स्वयेगु आँत मयात ।	गणेशले त्यस्तो श्राप दिनेबित्तिकै कसैले पनि देउताहरूले हेर्ने आँट गरेन ।	yes	teacher-verified; logged 2026-10-14
+123	spk02	stories	audio_123.wav	लिपा फुक्क द्यःपिं मिलेजुयाः मिलायात क्षमा बिया ब्यु धकाः धाः वन ।	पछि सबै देउताहरूले मिलेर चन्द्रमालाई क्षमा दिइ दिनु भनेर भन्न गए ।	yes	teacher-verified; logged 2026-10-14
+124	spk02	stories	audio_124.wav	"फुक्क द्यःपिंसं क्षमा ब्यु धाः गुलिं गणेद्यवं ""भाद्र शुक्ल चौथीकुन्हु जक सराः लगेजुइ,"	"सबै देउताहरूले क्षमा दिनु भनेकोले गणेशले ""भाद्र शुक्ल चौथीकादिन मात्र श्राप लाग्छ,"	yes	teacher-verified; logged 2026-10-14
+125	spk02	religion	audio_125.wav	"मेबलय् लगे जुइ मखु"" धकाः सराः लित कयाबिल ।"	"अरुबेलामा लाग्ने छैन"" भनेर श्राप फिर्ता लिइदियो ।"	yes	teacher-verified; logged 2026-10-14
+126	spk02	religion	audio_126.wav	अय्जूगुलिं चथाः कुन्हु मिलाया पुजा याइबलय् स्वये मज्यू धाःगु जुयाचवन ।	त्यहीभएर चथाः कादिन चन्द्रमाको पुजा गर्नेबेलामा हेर्न हुन्न भनेको रहेछ ।	yes	teacher-verified; logged 2026-10-14
+127	spk02	religion	audio_127.wav	चथाः कुन्हु बहनी मिला लुइसातकि मिलाया आराधना यानाः पुजा याइ।	चथाः कादिन बेलुकी चन्द्रमा उदाउनेबित्तिक्कै चन्द्रमाको आराधना गरेर पुजा गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+128	spk02	religion	audio_128.wav	थ्वकुन्हु मिलाया पुजा यात धाःसा दच्छि दुने लाःगु फुक्कं मखुगु द्वपंपाखें मुक्त जुइ धाइ ।	यो दिन चन्द्रमाको पुजा गर्यो भने वर्ष भित्र परेका सबै झूठो आरोपबाट मुक्त हुन्छ भनिन्छ ।	yes	teacher-verified; logged 2026-10-14
+129	spk02	religion	audio_129.wav	पुजा याइबलय् चथाः स्वां, तुमा, पालुमा नं तइ ।	पुजा गर्नेबेलामा चथाः स्वां, उखुकोबोट, अदुवाकोबोट पनि राखिन्छ ।	yes	teacher-verified; logged 2026-10-14
+130	spk02	religion	audio_130.wav	नापं सियातःगु छुस्यामुस्या, बरां, बस्पतिया लिसें आमासि, धाले, तुसि पासि आदि सिसाबुसा नं छायेगु याइ ।	साथै भुटिराखेको गुहुँभटमास, बदाम, आरुकोबियाँको सँगै अम्बा, अनार, काँक्रो, नास्पाति आदि फलपूल पनि चढाउने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+131	spk02	culture_festivals	audio_131.wav	थ्वहे ज्वलं प्रसाद कथं ग्रहण यानाः भ्वय् नयेगु याइ ।	यही सामाग्री प्रसादको रुपमा ग्रहण गरेर भोज खाने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+132	spk02	culture_festivals	audio_132.wav	नेपाः देशय् दच्छिया दुने हनीगु नखः चखः मध्ये मोहनि नखः दकलय् ताःहाकःगु व तःजिक हनीगु नखः खः ।	नेपाल देशमा बर्षभरिमा मानिने चाडबाड मध्ये मोहनि चाड सबभन्दा लामो र भब्यरुपमा मानिने चाड हो।	yes	teacher-verified; logged 2026-10-14
+133	spk02	culture_festivals	audio_133.wav	असत्ययात सत्यं त्याकूगु द्यःतय्त दुःख ब्यूपिं राक्षसतय्त स्याःगु लसताय् मोहनि नखः माने याःगु खः ।	असत्यलाई सत्यले जितेको, देवताहरूलाई दुःख दिएका राक्षसहरूलाई मारेको उत्सवमा मोहनि चाड मानेको हो।	yes	teacher-verified; logged 2026-10-14
+134	spk02	culture_festivals	audio_134.wav	थ्व नखः मदिक्क बाःछि (भिंन्यान्हु) तक माने याइ।	यो चाड नटुटाइ १५ दिन सम्म मान्ने गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+135	spk02	culture_festivals	audio_135.wav	मोहनियात दुर्गापुजा, दशैं व बिजया दशमी नं धाइ।	मोहनिलाई दुर्गापुजा, दशैं र बिजया दशमी पनि भनिन्छ।	yes	teacher-verified; logged 2026-10-14
+136	spk02	religion	audio_136.wav	मोहनिबलय् यें देय्या स्थानीयबासीतय् कूछिभ्वय्, स्याक्वत्याक्व व चालंयात बिशेष महत्व बियाः हनेगु याइ।	मोहनिबेलामा काठमाडौ देशको स्थानीयबासीहरू कूछिभ्वय् (अष्टमी), स्याक्वत्याक्व (नवमी) र चालं (दशमी) लाई बिशेष महत्व दिएर मान्ने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+137	spk02	culture_festivals	audio_137.wav	कौलाथ्व पारु कुन्हु नःलास्वां स्वनेगु याइ।	कौलाथ्व पारु (परेवा) का दिन जमरा राख्ने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+138	spk02	religion	audio_138.wav	मोहनि नखः दकलय् न्हापां नः लास्वां स्वनाः तिनि न्ह्याइ।	मोहनि नखः सबभन्दा पहिले जमरा राखेर मात्र शुरुहुन्छ ।	yes	teacher-verified; logged 2026-10-14
+139	spk02	religion	audio_139.wav	नःला स्वनेगु धकाः थःथःगु आगं क्वथा (द्यः क्वथा) य् नः लास्वां पीगु खः ।	जमरा राख्ने भनेर आ-आफ्नो आगमकोठा (मूल / पुजाकोठा) मा जमरा छर्ने हो।	yes	teacher-verified; logged 2026-10-14
+140	spk02	religion	audio_140.wav	नःलास्वां पी न्ह्यः चायागु भ्यगतय् फि व पँचा ल्वाकछ्याइ।	जमरा राख्नु अघि माटोको भाँडोमा बालुवा र बलौटेमाटो मिसाइन्छ।	yes	teacher-verified; logged 2026-10-14
+141	spk02	culture_festivals	audio_141.wav	उकी तछ्व व कःनि पिनाः नीलः वह्वलाः मेगु भ्यगतं त्वपुइ।	त्यसमा गहुँ र मकै छरेर जल छरेर अर्को भाँडोले छोपिन्छ ।	yes	teacher-verified; logged 2026-10-14
+142	spk02	religion	audio_142.wav	मोहनिया नःला स्वनेगु कौलाथ्व पारुंनिसें कौलाथ्व नवमि तकयात नवरात्री (नौरथ) धाइ।	मोहनिको जमरा राख्ने कौलाथ्व परेवादेखि कौलाथ्व नवमि सम्मलाई नवरात्री (नौरथा) भनिन्छ।	yes	teacher-verified; logged 2026-10-14
+143	spk02	religion	audio_143.wav	नवरात्रीजःछि सुथन्हापां सर्गतय् नगु दनिबलय् हे गुन्हु तक गुंगू तीर्थय् चाःह्यू वनी।	नवरात्रभरि बिहानसबेरै आकाशमा तारा हुँदाबेलामा नै नौदिन सम्म नौवटा तीर्थमा घुम्न जान्छन् ।	yes	teacher-verified; logged 2026-10-14
+144	spk02	culture_festivals	audio_144.wav	अन ख्वाः सिलाः वा म्वः ल्हुयाः पीठ दर्शन याइ।	त्यहाँ मुख धोएर अथवा नुहाएर पीठ दर्शन गर्छन् ।	yes	teacher-verified; logged 2026-10-14
+145	spk02	culture_festivals	audio_145.wav	मस्तय् कान्तांडबडब थायेगु व भुतुमालि ब्वयेकेगु नं याइ।	बच्चाहरूमा डमरु बजाउने र चंगा उडाउने पनि गर्छन् ।	yes	teacher-verified; logged 2026-10-14
+146	spk02	culture_festivals	audio_146.wav	नःला स्वनेज्याया न्यान्हु पचिमहः (कौलाथ्व पञ्चमी) धकाः भैरवया जात्रा जुइ।	घटस्थापनाको पाँचौदिन पचिमः (कौलाथ्व पञ्चमी) भनेर भैरवको जात्रा हुन्छ ।	yes	teacher-verified; logged 2026-10-14
+147	spk02	culture_festivals	audio_147.wav	थुकी पचलि भैरवया ख्वाःपाः दुगु तग्वःगु सिजः त्यपया जात्रा याइगु खः ।	यसमा पचलि भैरवको मुहार भएको ठूलो तामाको घ्याम्पोको जात्रा गरिने हो।	yes	teacher-verified; logged 2026-10-14
+148	spk02	culture_festivals	audio_148.wav	सिजःया त्यपय् लुंसिया तःगु दइ।	तामाको घ्याम्पोमा सुनजलप लगाइएको हुन्छ।	yes	teacher-verified; logged 2026-10-14
+149	spk02	culture_festivals	audio_149.wav	जात्रा याये न्ह्यः सिजःया त्यप दुने अय्लाः, थ्वं, ख्यें, छ्वेला, स्याः बजि, स्वां आदि तयाः जायेकी।	जात्रा गर्नु अघि तामाको घ्याम्पो भित्र रक्सि, जाँड, अन्डा, छ्वेला, स्याः बजि, फूल आदि राखेर भरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+150	spk02	culture_festivals	audio_150.wav	त्यप जायेके धुंकाः पचलि भैरवयात लंपुं छानाः बांलाकी।	घ्याम्पो भरिसके पछि पचलि भैरवलाई श्रृंगार चढाएर सजाइन्छ।	yes	teacher-verified; logged 2026-10-14
+151	spk02	culture_festivals	audio_151.wav	द्यःयात बांलाकेधुंकाः पचलि भैरवया द्यःयात गमय् यंकाः तइ।	देउतालाई सजाइसकेपछि पचलि भैरवको देउतालाई मूलस्थानमा लगेर राखिन्छ।	yes	teacher-verified; logged 2026-10-14
+152	spk02	culture_festivals	audio_152.wav	द्यःगमय् तइबलय् क्वः ने च्वंपिं ज्यापु जातिया काय्मस्तय्त वःलाः तयेगु धकाः पचलि भैरवया गमय् तये यंकेगु याइ।	मूल देवस्थानमा राख्दा तल्लो भेगमा रहेका ज्यापु जातिका छोराबच्चाहरूलाई वःलाः राख्ने भनेर पचलि भैरवको थानमा राख्न लगिने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+153	spk02	culture_festivals	audio_153.wav	जात्राया झ्वलय् पचलि भैरवया सिजः त्यपयात पचलिं न्ह्याकाः गोफः, जोशीदेगः, मरु आदि थाय् जुयाः हनुमानध्वाखाय् थ्यंकी।	जात्राको क्रममा पचलि भैरवलाई तामा घ्याम्पोलाई पचलिबाट शुरुगरेर गोफल, जैशीदेवल, मरु आदि ठाउँ भएर हनुमानढोकामा पुऱ्याइन्छ।	yes	teacher-verified; logged 2026-10-14
+154	spk02	culture_festivals	audio_154.wav	अन पचलि भैरवया पुजा यात कि जात्रा क्वचाइ।	त्यहाँ पचलि भैरवलाई पुजा गर्यो कि जात्रा अन्त्य हुन्छ।	yes	teacher-verified; logged 2026-10-14
+155	spk02	culture_festivals	audio_155.wav	भैरवया जात्रा नापनापं नैं अजिमा व मसुकाः गनेद्यःया नं जात्रा याइ।	भैरवको जात्रा सँगसँगै नैं अजिमा (नैं माता) र मुसुकाः गणेशको पनि जात्रा गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+156	spk02	culture_festivals	audio_156.wav	सप्तमि कुन्हु फूलपाति माने याइ।	सप्तमिका दिन फूलपाति मानिन्छ।	yes	teacher-verified; logged 2026-10-14
+157	spk02	culture_festivals	audio_157.wav	फूलपाति धुंकाः महाअष्टमिकुन्हु स्वनिगलय् कूछिभ्वय् माने याइ।	फूलपाति पछि महाअष्टमिदिन काठमाडौं उपत्यकामा कूछिभ्वय् मान्ने गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+158	spk02	culture_festivals	audio_158.wav	कूलया सकलें दुजःपिं छथासं च्वनाः नइगु भ्वय् जूगुलिं थुकियात कूछिभ्वय् धाःगु खः ।	कूलका सबै सदस्यहरू एकैठाउँमा बसेर खाने भोज भएकोले यसलाई कूछिभ्वय् भनिएको हो।	yes	teacher-verified; logged 2026-10-14
+159	spk02	culture_festivals	audio_159.wav	कूछिभ्वय् कुन्हु छैज्याय् छ्यलीगु हलंज्वलं नापं थीथी द्यःपिन्त नं भ्वय् छायेगु याइ।	कूछिभ्वय् दिन घरकाममा प्रयोगहुने सर-साधन सँगै थरिथरि देउताहरूलाई पनि भोज चढाउने गरिन्छ	yes	teacher-verified; logged 2026-10-14
+160	spk02	religion	audio_160.wav	महानवमि कुन्हु स्याक्वत्याक्व माने याइ।	महानवमी दिन क्याक्वत्याक्व मान्ने गरिन्छ ।	yes	teacher-verified; logged 2026-10-14
+161	spk02	religion	audio_161.wav	थ्वकुन्हु भवानी, गणेद्यः, अजिमा, भिंद्यः, दिगुद्यः व पीठपतिं पुजा याइ।	योदिन भवानी, गणेश, अजिमा, भिमसेन, कुलदेवता र प्रत्येकपीठमा पुजा गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+162	spk02	religion	audio_162.wav	थ्व पुजाय् खा, हँय् दुगु, फै, म्येय् आदि बलि बी।	यो पुजामा कुखुरा, हाँस, बोका, भेंडा, राँगो आदि बलि दिन्छन् ।	yes	teacher-verified; logged 2026-10-14
+163	spk02	culture_festivals	audio_163.wav	नापं थःथःगु जात कथं याना वयाच्वंगु पेसालिसे सम्बन्धित ज्याभःत स्वनाः पुजा याइ।	साथै आ-आफ्नो जात अनुसार गर्दैआएको पेशासँग सम्बन्धित ज्यावलहरू स्थापना गरेर पुजा गर्छन्।	yes	teacher-verified; logged 2026-10-14
+164	spk02	religion	audio_164.wav	लिसें थ्वकुन्हु हे मोहनि फयेगु ज्या नं याइ।	साथै योदिन नै मोहनि (कालोटीका) थाप्ने काम पनि गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+165	spk02	culture_festivals	audio_165.wav	अथे हे सवारी साधन, मेसिनरी सामान आदि नं पुजा याइ।	त्यसरी नै सवारी साधन, मेसिनरी सामान आदि पनि पुजा गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+166	spk02	weather_climate	audio_166.wav	द्यः पुज्यानाः बलि ब्यूम्ह बहांयात बहनी थः छेंजःपिं च्वनाः सीकाभू याइ।	देउता पुजा गरेर बलि दिएको बहान (वस्तु) लाई बेलुकी आफ्नो घरसदस्यहरू बसेर सीकाभू गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+167	spk02	weather_climate	audio_167.wav	ताल्लां तांन्वई ।	गर्मी याममा गर्मी हुन्छ ।	yes	teacher-verified; logged 2026-10-14
+168	spk02	weather_climate	audio_168.wav	ताल्लां न्हापां निभाः त्वइ ।	गर्मी याममा छिटै घाम लाग्छ ।	yes	teacher-verified; logged 2026-10-14
+169	spk02	weather_climate	audio_169.wav	थुगुसिइ तसक्कं तांन्वः ।	यसपालि धेरै गर्मी छ ।	yes	teacher-verified; logged 2026-10-14
+170	spk02	weather_climate	audio_170.wav	थउने सिबय् थुगुसि तांन्वः ।	पोहोर भन्दा यसपालि गर्मी छ ।	yes	teacher-verified; logged 2026-10-14
+171	spk02	weather_climate	audio_171.wav	तांन्वयाः चःति वल ।	गर्मी भएर पसिना आयो ।	yes	teacher-verified; logged 2026-10-14
+172	spk02	health_body	audio_172.wav	तराईलय् अप्वः तांन्वयाः लू चले जुइयः ।	तराईमा धेरै गर्मी हुँदा लू चल्छ ।	yes	teacher-verified; logged 2026-10-14
+173	spk02	weather_climate	audio_173.wav	पतिं न्यातकि थी थी ल्वय् जुइ यः, गथे कि डेंगु, मलेरिया आदि ।	लाम्खुट्टेले टोक्यो भनै अनेकौं रोग लाग्छ, जस्तै डेंगु, मलेरिया आदी ।	yes	teacher-verified; logged 2026-10-14
+174	spk02	weather_climate	audio_174.wav	चिकुलां लिबाक्क निभाः त्वई ।	जाडो याममा ढिलो घाम लाग्छ ।	yes	teacher-verified; logged 2026-10-14
+175	spk02	weather_climate	audio_175.wav	चिकुलां लुमुक्क च्वनेमाः ।	जाडो याममा न्यानो गरि बस्नुपर्छ ।	yes	teacher-verified; logged 2026-10-14
+176	spk02	weather_climate	audio_176.wav	जितः चिकुलां निभाःलय् च्वने यः ।	मलाई जाडो याममा घाममा बस्न मनपर्छ ।	yes	teacher-verified; logged 2026-10-14
+177	spk02	weather_climate	audio_177.wav	चिकुलां गबलें गबलें निभाः त्वइमखु ।	जाडो याममा कहिले काहिँ घाम लाग्दैन ।	yes	teacher-verified; logged 2026-10-14
+178	spk02	weather_climate	audio_178.wav	चिकुलां च्वापु नं गाइ ।	जाडो याममा हिउँ पनि पर्छ।	yes	teacher-verified; logged 2026-10-14
+179	spk02	weather_climate	audio_179.wav	च्वापु वयाः गुँ च्वापुं भुन ।	हिउँ परेर जंगल नै ढाक्यो ।	yes	teacher-verified; logged 2026-10-14
+180	spk02	weather_climate	audio_180.wav	च्वापु वयाः सिमा च्वापुं भुन ।	हिउँ परेर रूख हिउँले ढाक्यो ।	yes	teacher-verified; logged 2026-10-14
+181	spk02	health_body	audio_181.wav	च्वापु वयाः छै च्वापुं भुन ।	हिउँ परेर घर हिउँले ढाक्यो	yes	teacher-verified; logged 2026-10-14
+182	spk02	weather_climate	audio_182.wav	चिकुलां यक्वसित सैखं चाई, ज्वर वइ, मुसु वइ, ल्हा तुति पुचाइ ।	जाडो याममा धेरैलाई रुघा लाग्छ, ज्वरो आउँछ, खोकी लाग्छ र हातखुट्टामा चिसो पसेर दुख्छ र चिलाउँछ	yes	teacher-verified; logged 2026-10-14
+183	spk02	weather_climate	audio_183.wav	म्हिगः वा वल ।	हिजो पानी पर्यो ।	yes	teacher-verified; logged 2026-10-14
+184	spk02	weather_climate	audio_184.wav	थौ सुथय् वा वल ।	आज बिहान पानी पर्यो ।	yes	teacher-verified; logged 2026-10-14
+185	spk02	weather_climate	audio_185.wav	हुँकन वा वयाच्वन, थन मवः।	उ पर पानी पर्दै छ, यहाँ परेको छैन	yes	teacher-verified; logged 2026-10-14
+186	spk02	weather_climate	audio_186.wav	तसक्कं वा वल ।	धेरै पानी पर्यो ।	yes	teacher-verified; logged 2026-10-14
+187	spk02	weather_climate	audio_187.wav	तसक्कं वा फय् वल ।	धेरै हुरी बतास चल्यो ।	yes	teacher-verified; logged 2026-10-14
+188	spk02	weather_climate	audio_188.wav	छन्तः वां दाल ।	तिमीलाई पानीले रुझायो ।	yes	teacher-verified; logged 2026-10-14
+189	spk02	weather_climate	audio_189.wav	वां दायाः छगु छ्यं प्यात, लँ प्यात ।	पानीमा रुझेर टाउको भिज्यो, लुगा पनि भिज्यो ।	yes	teacher-verified; logged 2026-10-14
+190	spk02	weather_climate	audio_190.wav	वां दायाः दंगु लाकां नं प्यात ।	पानीमा रुझेर तिम्रो जुत्ता पनि भिज्यो ।	yes	teacher-verified; logged 2026-10-14
+191	spk02	weather_climate	audio_191.wav	वा नापं पों नं गात ।	पानीसँगै असिना पनि पर्यो ।	yes	teacher-verified; logged 2026-10-14
+192	spk02	weather_climate	audio_192.wav	वा वइ बलय् लँ ध्याचः जुइ यः, लँ चुलुइ यः ।	पानी परेको बेला बाटो हिलो हुन्छ, चिप्लो पनि हुन्छ ।	yes	teacher-verified; logged 2026-10-14
+193	spk02	weather_climate	audio_193.wav	वा वइबलय् कुसा वा रेनकोट ज्वनाः पिहांवनेमाः	पानी परेको बेला छाता वा रेनकोट लिएर बाहिर निस्कनु पर्छ ।	yes	teacher-verified; logged 2026-10-14
+194	spk02	weather_climate	audio_194.wav	मोटरसाइकल गयाच्वनाबलय् वा वल ।	मोटरसाइकल हाँकिरहेको बेला पानी पर्यो ।	yes	teacher-verified; logged 2026-10-14
+195	spk02	weather_climate	audio_195.wav	यक्व वा वयाः खुसिबाः वल ।	धेरै पानी परेर बाढी आयो।	yes	teacher-verified; logged 2026-10-14
+196	spk02	weather_climate	audio_196.wav	खुसिबाः वयाः छै चुइकल ।	बाढी आएर घर बगायो ।	yes	teacher-verified; logged 2026-10-14
+197	spk02	weather_climate	audio_197.wav	यक्व वा वयाः चलः वल ।	धेरै पानी परेर पहिरो गयो ।	yes	teacher-verified; logged 2026-10-14
+198	spk02	weather_climate	audio_198.wav	चलः वयाः राजमार्ग बन्द जुल ।	पहिरो गएकोले राजमार्ग बन्द भयो ।	yes	teacher-verified; logged 2026-10-14
+199	spk02	weather_climate	audio_199.wav	तांन्वबलय् फय् वलकि सिचुसे च्वनिइ ।	गर्मी याममा हावा चल्दा शितल हुन्छ ।	yes	teacher-verified; logged 2026-10-14
+200	spk02	weather_climate	audio_200.wav	धाकु फय् वयाः सिमा ग्वःतुला लँ पन	आँढीबेरी चल्दा रुख ढलेर बाटो बन्द भयो	yes	teacher-verified; logged 2026-10-14
+201	spk02	culture_festivals	audio_201.wav	थुगुसिया मोहनि नं त्यल ।	यस वर्षको दशै पनि आयो	yes	teacher-verified; logged 2026-10-14
+202	spk02	travel_conversation	audio_202.wav	थगुने छ गनं चाःह्यूवनाला?	गतवर्ष तिमि कहिं घुम्न गयौ?	yes	teacher-verified; logged 2026-10-14
+203	spk02	travel_conversation	audio_203.wav	आकिवं भी नं चाःह्यूवने ।	अर्को वर्ष हामी पनि घुम्न जान्छौ ।	yes	teacher-verified; logged 2026-10-14
+204	spk02	culture_festivals	audio_204.wav	पैंया पुन्हि बाछि लिपा मोहनी वइ ।	ईन्द्रजात्राको १५ दिन पछि दशै आउँछ ।	yes	teacher-verified; logged 2026-10-14
+205	spk02	culture_festivals	audio_205.wav	स्वन्ति वयेत लच्छि मानि ।	तिहार आउन एक महिना बाँकि छ ।	yes	teacher-verified; logged 2026-10-14
+206	spk02	travel_conversation	audio_206.wav	व लत्या लिपा दँय् वल ।	ऊ ४५ दिनपछि घर आयो ।	yes	teacher-verified; logged 2026-10-14
+207	spk02	travel_conversation	audio_207.wav	जि घौछि लिपा वये ।	म १ घण्टा पछि आउँछु	yes	teacher-verified; logged 2026-10-14
+208	spk02	culture_festivals	audio_208.wav	नेपालसंबत् कथं कछला न्हापांगु ला खः ।	नेपालसंबत् अनुसार कछला पहिलो महिना हो ।	yes	teacher-verified; logged 2026-10-14
+209	spk02	health_body	audio_209.wav	वाइक एक्सिडेन्ट जुयाः तुति त्वधुल ।	वाइक एक्सिडेन्ट भएर उसको खुट्टा भाँचियो	yes	teacher-verified; logged 2026-10-14
+210	spk04	health_body	audio_210.wav	वयात अस्पताल यंकल ।	उसलाई अस्पताल लग्यो ।	yes	teacher-verified; logged 2026-10-14
+211	spk04	health_body	audio_211.wav	अस्पतालय् वया तुति प्लास्टर याकल ।	अस्पतालमा उसको खुट्टामा प्लास्टर गर्यो	yes	teacher-verified; logged 2026-10-14
+212	spk04	health_body	audio_212.wav	तुति त्वधुयाः व न्यासि वने थाकुल	खुट्टा भाँचेर उसलाई हिंड्न गाह्रो भयो ।	yes	teacher-verified; logged 2026-10-14
+213	spk04	health_body	audio_213.wav	तुति त्वधुयाः व बैशाखी ज्वनाः न्यासि वने माल ।	खुट्टा भाँचेर उसलाई बैशाखीको सहाराले हिंड्नु पर्यो ।	yes	teacher-verified; logged 2026-10-14
+214	spk04	health_body	audio_214.wav	यक्व पालुगु नयाः प्वा स्यात ।	धेरै पिरो खाएर पेट दुख्यो ।	yes	teacher-verified; logged 2026-10-14
+215	spk04	health_body	audio_215.wav	प्वा स्यानाः व छैय् है च्वने माल ।	पेट दुखेर उ घरमै बस्नु पर्यो ।	yes	teacher-verified; logged 2026-10-14
+216	spk04	health_body	audio_216.wav	प्वा स्याःगुलिं व पासापिं नाप म्हिते मखन ।	पेट दुखेकोले उ साथीहरूसँग खेल्न पाएन ।	yes	teacher-verified; logged 2026-10-14
+217	spk04	health_body	audio_217.wav	ताउत निभालय् न्यासि वनाः घ्यं स्यात ।	धेरै बेर घाममा हिंडेकोले मलाई टाउको दुख्यो ।	yes	teacher-verified; logged 2026-10-14
+218	spk04	health_body	audio_218.wav	ताउत क्वछुनाः ज्या यानाः जँ स्यात ।	धेरै बेर निहुरिएर काम गरेकोले कम्मर दुख्यो	yes	teacher-verified; logged 2026-10-14
+219	spk04	health_body	audio_219.wav	वया मिखा कमजोर जुयाः चस्मा तयेमाल ।	उसको आँखा कमजोर भएकोले चस्मा लगाउनु पर्यो ।	yes	teacher-verified; logged 2026-10-14
+220	spk04	family_kinship	audio_220.wav	वया छम्ह केहैं दु	उसको एकजना बहिनी छ	yes	teacher-verified; logged 2026-10-14
+221	spk04	family_kinship	audio_221.wav	छिमि प्यम्ह म्हह्याँय् दु।	तिम्रो चार जना छोरीहरु छन् ।	yes	teacher-verified; logged 2026-10-14
+222	spk04	animals_nature	audio_222.wav	इमिके न्याम्ह खिचा दु।	उनीहरसंग पाँच वटा कुकुर छ ।	yes	teacher-verified; logged 2026-10-14
+223	spk04	family_kinship	audio_223.wav	थन खुम्ह मनू दु ।	त्यहाँ छ जना मानिसहरु छन् ।	yes	teacher-verified; logged 2026-10-14
+224	spk04	animals_nature	audio_224.wav	अन न्ह य्म्ह हुँचा दु ।	त्यहाँ सात वटा मुसाहरु छन् ।	yes	teacher-verified; logged 2026-10-14
+225	spk04	everyday_objects	audio_225.wav	जिके छगू दर्जन कापी दु ।	मसँग एक दर्जन कापी छ ।	yes	teacher-verified; logged 2026-10-14
+226	spk04	everyday_objects	audio_226.wav	उमिके प्यंगू किपाः दु ।	उनीहरुसँग चार वटा तस्बिर छ ।	yes	teacher-verified; logged 2026-10-14
+227	spk04	everyday_objects	audio_227.wav	छिमिके च्यागू सौफा दु ।	तिमीहरूसँग आठ वटा सौफा छ ।	yes	teacher-verified; logged 2026-10-14
+228	spk04	food_cuisine	audio_228.wav	जिमिके झिणू गिलास जुस दु ।	हामीसँग दस गिलास नुस	yes	teacher-verified; logged 2026-10-14
+229	spk04	food_cuisine	audio_229.wav	जिभिसं च्या त्वने ।	हामी चिया खान्छौ	yes	teacher-verified; logged 2026-10-14
+230	spk04	food_cuisine	audio_230.wav	झी जा नये ।	हामी खाना खान्छौ	yes	teacher-verified; logged 2026-10-14
+231	spk04	food_cuisine	audio_231.wav	छं मरि न ।	तिमी रोटी खाऊ ।	yes	teacher-verified; logged 2026-10-14
+232	spk04	food_cuisine	audio_232.wav	छिकपिंसं ज्यना भपियादिसँ ।	तपाईंहरू खाना खानुहोस् ।	yes	teacher-verified; logged 2026-10-14
+233	spk04	food_cuisine	audio_233.wav	वं बजि नइ ।	उसले खाजा खान्छ ।	yes	teacher-verified; logged 2026-10-14
+234	spk04	food_cuisine	audio_234.wav	वय्कःपिंसं बेलि भपिइ ।	उहाँहरुले खाना खानु हुन्छ	yes	teacher-verified; logged 2026-10-14
+235	spk04	travel_conversation	audio_235.wav	ओहो मिखा, छाय् न्हिलाच्वनागु छ?	ओहो मिखा, किन हाँसिरहेको ?	yes	teacher-verified; logged 2026-10-14
+236	spk04	travel_conversation	audio_236.wav	जि पासा नाप म्हितःवनेत्यनागु ।	म साथीसँग खेल्न जान लागेको ।	yes	teacher-verified; logged 2026-10-14
+237	spk04	travel_conversation	audio_237.wav	भकुंग्वारा म्हितःवनेत्यना, छ नं म्हितः वनेगुला?	फुटबल खेल्न जान लागेको, तिमी पनि खेल्न जाने हो?-	yes	teacher-verified; logged 2026-10-14
+238	spk04	travel_conversation	audio_238.wav	जिउ, जि नं व है वल ।	हुन्छ, म पनि आइ नै हालें ।	yes	teacher-verified; logged 2026-10-14
+239	spk04	animals_nature	audio_239.wav	थ्व भंगः खः ।	यो पंक्षी हो ।	yes	teacher-verified; logged 2026-10-14
+240	spk04	animals_nature	audio_240.wav	थ्व ब्वहः खः ।	यो बकुल्ला हो	yes	teacher-verified; logged 2026-10-14
+241	spk04	animals_nature	audio_241.wav	ब्वहः तुयू ।	बकुल्ला सेतो छ ।	yes	teacher-verified; logged 2026-10-14
+242	spk04	animals_nature	audio_242.wav	ब्वहः तुयूम्ह भंगः खः ।	बकुल्ला सेतो पंक्षी हो	yes	teacher-verified; logged 2026-10-14
+243	spk04	animals_nature	audio_243.wav	क्वः हाकु ।	काग कालो छ ।	yes	teacher-verified; logged 2026-10-14
+244	spk04	animals_nature	audio_244.wav	क्वः हाकुम्ह भंगः खः ।	काग कालो पंक्षी हो।	yes	teacher-verified; logged 2026-10-14
+245	spk04	animals_nature	audio_245.wav	थ्व जन्तु खः ।	यो जनावर हो	yes	teacher-verified; logged 2026-10-14
+246	spk04	animals_nature	audio_246.wav	थ्व खिचा खः ।	यो कुकुर हो ।	yes	teacher-verified; logged 2026-10-14
+247	spk04	animals_nature	audio_247.wav	थ्व तुयूम्ह खिचा खः ।	यो सेतो कुकुर हो ।	yes	teacher-verified; logged 2026-10-14
+248	spk04	animals_nature	audio_248.wav	थ्व सल खः ।	यो घोडा हो ।	yes	teacher-verified; logged 2026-10-14
+249	spk04	food_cuisine	audio_249.wav	थ्व हृयाउँगु स्याउ खः ।	यो रातो स्याउ हो ।	yes	teacher-verified; logged 2026-10-14
+250	spk04	food_cuisine	audio_250.wav	थ्व अँ खः ।	यो आँप हो ।	yes	teacher-verified; logged 2026-10-14
+251	spk04	everyday_objects	audio_251.wav	दंगु म्हिचा छु छु दु ?	तिम्रो झोलामा के के छ?	yes	teacher-verified; logged 2026-10-14
+252	spk04	geography_places	audio_252.wav	पोखराय् छु छु दु ?	पोखरामा के के छ?	yes	teacher-verified; logged 2026-10-14
+253	spk04	culture_festivals	audio_253.wav	यँयाय् छु छु दइ?	ईन्द्रजात्रामा के के हुन्छ?	yes	teacher-verified; logged 2026-10-14
+254	spk04	family_kinship	audio_254.wav	छिगु दँय् सुसु दु ?	तपाँईको घरमा को को हुनुहुन्छ ?	yes	teacher-verified; logged 2026-10-14
+255	spk04	family_kinship	audio_255.wav	दंगु परिवारय् सुसु दु ?	तिम्रो परिवारमा को को छ?	yes	teacher-verified; logged 2026-10-14
+256	spk04	family_kinship	audio_256.wav	छिमि पाजुया दँय् सु सु दु ?	तिम्रो मामा घरमा को को छ?	yes	teacher-verified; logged 2026-10-14
+257	spk04	geography_places	audio_257.wav	दंगु छै गन खः ?	तिम्रो घर कहाँ हो?	yes	teacher-verified; logged 2026-10-14
+258	spk04	geography_places	audio_258.wav	छिगु गां गन ख?	तपाँईको गाउँ कहाँ हो?	yes	teacher-verified; logged 2026-10-14
+259	spk04	travel_conversation	audio_259.wav	छ गनं? वयागु खः ?	तिमि कहाँबाट आएको हो?	yes	teacher-verified; logged 2026-10-14
+260	spk04	travel_conversation	audio_260.wav	छि गनं झायागु खः ?	तपाँई कहाँबाट आउनुभएको हो?	yes	teacher-verified; logged 2026-10-14
+261	spk06	shopping_local_markets	audio_261.wav	हुल जुइगु थासय् म्हिचा नह्य : ने क्वखानादिसँ, म्हिचा खुँत दयेफु।	भीड हुने ठाउँमा झोला अगाडि बोक्नुहोस्, झोला काट्नेहरू हुन्छन्।	yes	teacher-verified; logged 2026-10-14
+262	spk06	tourist_places_culture	audio_262.wav	मनकामना वना: मनोकामना पूवके फइ धइगु विश्वास दु।	मनकामनामा गएर मनोकामना पूरा गर्न सकिन्छ भन्ने विश्वास छ।	yes	teacher-verified; logged 2026-10-14
+263	spk06	hotels_accommodation	audio_263.wav	बहनी लिबाक्क वयेबलय रिसेप्सनय खावा चायेकेबीमा:।	राति ढिलो आउँदा रिसेप्सनमा ढोका खोलाइदिनुपर्छ।	yes	teacher-verified; logged 2026-10-14
+264	spk06	tourist_places_culture	audio_264.wav	माछापुच्छे च्वापुँगु न्हिप्ये थे खने दु।	माछापुच्छ्रे हिमाल माछाको पुच्छ्रे जस्तै देखिन्छ।	yes	teacher-verified; logged 2026-10-14
+265	spk06	tourist_places_culture	audio_265.wav	चाँगुनारायण नेपाःया दक्कसिबे पुलांगु देगः मनेयाइ।	चांगुनारायण नेपालको सबैभन्दा पुरानो मन्दिर मानिन्छ।	yes	teacher-verified; logged 2026-10-14
+266	spk06	shopping_local_markets	audio_266.wav	बजार ती न्ह्य याकनं थ्यँकादिस।	बजार बन्द हुनुअघि छिटो पुग्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+267	spk06	food_restaurants	audio_267.wav	प्वाः स्याःगुलि खिर नि गःचा जा जक नया।	पेट बिग्रेपछि खिर र हल्का खाना मात्र खाएँ।	yes	teacher-verified; logged 2026-10-14
+268	spk06	food_restaurants	audio_268.wav	बर्खाबलय् वाउँचा बांलाक बुकाः जक भपियादिसँ ।	बर्खायाममा तरकारी राम्ररी पकाएर मात्र खानुहोस्।	yes	teacher-verified; logged 2026-10-14
+269	spk06	guides_services	audio_269.wav	यँ व पोखराय पाहाँतयात लागि बिस्कं स्वास्थ्य केन्द्रत दु।	काठमाडौं र पोखरामा यात्रुहरूका लागि विशेष स्वास्थ्य केन्द्रहरू छन्।	yes	teacher-verified; logged 2026-10-14
+270	spk06	directions_navigation	audio_270.wav	थन एअरपोर्ट गुलि तापाः?	यहाँबाट एयरपोर्ट कति टाढा छ?	yes	teacher-verified; logged 2026-10-14
+271	spk06	food_restaurants	audio_271.wav	थन लिक्क नेपाली नसा दइगु बाँला :गु थाय् दु ला ?	यहाँनजिकै नेपाली खाना पाइने राम्रो ठाउँ छ?	yes	teacher-verified; logged 2026-10-14
+272	spk06	guides_services	audio_272.wav	त्रिशुली  खुसिइ न्हिच्छि राफ्टिंग याये फइ।	त्रिशुली नदीमा दिनभरको राफ्टिङ गर्न सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+273	spk06	shopping_local_markets	audio_273.wav	नेवाः तय ख्वाःपाः मुंकाकुथि या लागि यइपुसे च्वँ ।	नेवारी मुखौटा सङ्ग्रहका लागि रोचक वस्तु हो।	yes	teacher-verified; logged 2026-10-14
+274	spk06	travel_transportation	audio_274.wav	जुम्ला वनेत येँन तप्यंक हे उडान दु।	जुम्ला जान काठमाडौंबाट सिधै उडान छ।	yes	teacher-verified; logged 2026-10-14
+275	spk06	travel_transportation	audio_275.wav	मुग्लिङ थ्यनकि बस जा नयेत दिकी।	मुग्लिङ पुगेपछि बस खानाको लागि रोकिन्छ।	yes	teacher-verified; logged 2026-10-14
+276	spk06	shopping_local_markets	audio_276.wav	थ्व पसलय फिक्स भाः दु, क्वकाय् मज्यू।	यो पसलमा फिक्स भाउ छ, घटाउन मिल्दैन।	yes	teacher-verified; logged 2026-10-14
+277	spk06	travel_transportation	audio_277.wav	लुक्ला वनेगु उडान सुथय् गुलि बजे जुइ ?	लुक्ला जाने उडान बिहान कति बजेको हुन्छ?	yes	teacher-verified; logged 2026-10-14
+278	spk06	tourist_places_culture	audio_278.wav	सेती खुसिया जाः एकदम गाःवं अले चीबाला दु।	सेती नदीको खोंच एकदम गहिरो र साँघुरो छ।	yes	teacher-verified; logged 2026-10-14
+279	spk06	tourist_places_culture	audio_279.wav	खप्तड राष्ट्रिय निकुञ्ज शान्त व एकान्त थाय् खः।	खप्तड राष्ट्रिय निकुञ्ज शान्त र एकान्त ठाउँ हो।	yes	teacher-verified; logged 2026-10-14
+280	spk06	travel_transportation	audio_280.wav	केबल कारया टिकट निथाय्‌‌यागु लागि कायेमाः ।	केबल कारको टिकट दुवै तिरको लागि काट्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+281	spk06	guides_services	audio_281.wav	सन्ध्या: इलय् लँ पना: गाइड कन्हेयागु ज्याझ्वः कनाबी।	साँझ बाटो रोकेर गाइडले भोलिको योजना बताइदिन्छन्।	yes	teacher-verified; logged 2026-10-14
+282	spk06	guides_services	audio_282.wav	चलः वनीगु न्हि नह्याःगु वनेणु ताजिल कायेमाः।	पहिरोको जोखिम भएका दिन यात्रा तालिनुपर्छ।	yes	teacher-verified; logged 2026-10-14
+283	spk05	food_restaurants	audio_283.wav	गुन्द्रुक नेपाली नसाया छगू मू नसा खः।	गुन्द्रुक नेपाली भोजनको प्रमुख परिकार हो।	yes	teacher-verified; logged 2026-10-14
+284	spk05	guides_services	audio_284.wav	मौसम बांमला: सा, गाइड जुइगु दिकेगु क्वः छिइ।	मौसम बिग्रिए भने गाइडले हिँडाइ रोक्ने निर्णय गर्छन्।	yes	teacher-verified; logged 2026-10-14
+285	spk05	travel_transportation	audio_285.wav	ठमेलय् थ्यंका बियादिसँ।	ठमेलसम्म पुर्‍याइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+286	spk05	guides_services	audio_286.wav	गाइड किया कायेत दकलय बांलाःगु थाय् क्यनी।	फोटो खिच्न राम्रा ठाउँ गाइडले नै चिनाइदिन्छन्।	yes	teacher-verified; logged 2026-10-14
+287	spk05	travel_transportation	audio_287.wav	एयरपोर्टनिसे ठमेल तक ट्याक्सी गुलि तुइ ?	एयरपोर्टदेखि ठमेल पुग्न ट्याक्सीले कति लिन्छ?	yes	teacher-verified; logged 2026-10-14
+288	spk05	directions_navigation	audio_288.wav	करिब झिंगू मिनेट लगे जुइ ।	करिब दश मिनेट लाग्छ।	yes	teacher-verified; logged 2026-10-14
+289	spk05	directions_navigation	audio_289.wav	होटेल्या लोकेसन म्यापय सेभ यानाः तइगु दु।	होटेलको लोकेसन म्यापमा सेभ गरेर राखेको छु।	yes	teacher-verified; logged 2026-10-14
+290	spk05	travel_transportation	audio_290.wav	ड्राइभर याकनं, थ्यंका बियादिसँ।	ड्राइभर साहेब, छिटो पुर्‍याइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+291	spk05	travel_transportation	audio_291.wav	पोरवराया टिकट न्ह्यः हे बुक याये फइला?	पोखरा जाने टिकट अग्रिम बुक गर्न मिल्छ?	yes	teacher-verified; logged 2026-10-14
+292	spk05	hotels_accommodation	audio_292.wav	क्ठया यक्व यत्तित दु, इमित लिनाछ्वयेत जितः छुं बियादिसँ।	कोठामा मच्छर धेरै छन्, भगाउने केही दिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+293	spk05	shopping_local_markets	audio_293.wav	सायागु ऊन धकाः नकली ज्वलं मी पिं नं दु।	गाईनो ऊन भनेर नक्कली सामान बेच्नेहरू पनि छन्।	yes	teacher-verified; logged 2026-10-14
+294	spk05	hotels_accommodation	audio_294.wav	रूम सर्भिसय नसा छ्‌वया हयादिसँ।	रुम सर्भिसमा खाना पठाइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+295	spk05	tourist_places_culture	audio_295.wav	गोरखा द‌रबार पृथ्वीनारायण शाहया जन्मस्थल खः।	गोरखा दरबार पृथ्वीनारायण शाहको जन्मस्थल हो।	yes	teacher-verified; logged 2026-10-14
+296	spk05	directions_navigation	audio_296.wav	थ्व गल्लीं वनधाःसा ठमेल थ्यनी ला ?	यो गल्ली जाँदा ठमेल पुगिन्छ कि?	yes	teacher-verified; logged 2026-10-14
+297	spk05	travel_transportation	audio_297.wav	धनकुटा वनेगु बस धरान जुयाः वनी।	धनकुटा जाने बस धारान हुँदै जान्छ।	yes	teacher-verified; logged 2026-10-14
+298	spk05	food_restaurants	audio_298.wav	योमरीहदुने चाकु व हाम्वः तयाः दयेकेगु खः।	योमरीभित्र चाकु र तिल हालेर पकाइन्छ।	yes	teacher-verified; logged 2026-10-14
+299	spk05	shopping_local_markets	audio_299.wav	जि हाकनं व्येबलय पसल न्याये नै।	फेरि आउँदा यही पसलबाट किन्छु है।	yes	teacher-verified; logged 2026-10-14
+300	spk05	hotels_accommodation	audio_300.wav	खाता नाइसें च्वं, जि बांलांक घने खनी ।	बेड नरम छ, राम्ररी निद्रा पर्छ।	yes	teacher-verified; logged 2026-10-14
+301	spk05	travel_transportation	audio_301.wav	टेम्पो व माइ‌क्रोया भाडा दनी।	टेम्पो र माइक्रोको भाडा सस्तो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+302	spk05	tourist_places_culture	audio_302.wav	पशुपतिनाथ बागमती खुसिसिधय् अवस्थित छ।	पशुपतिनाथ बागमती नदीको किनारमा अवस्थित छ।	yes	teacher-verified; logged 2026-10-14
+303	spk05	food_restaurants	audio_303.wav	गल्लीयाजु नसा दनी, तर सफा स्वया : जक भपियादिसँ।	गल्लीको खाना सस्तो हुन्छ, तर सफाइ हेरेर खानुहोस्।	yes	teacher-verified; logged 2026-10-14
+304	spk05	shopping_local_markets	audio_304.wav	ध्यबा फुले न्ह्याः सामान वांलाक स्वयादिसँ।	पैसा बुझाउनुअघि सामान राम्ररी जाँच्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+305	spk05	directions_navigation	audio_305.wav	वतु थ्यनिवं स्वयम्भू लिक्क दु।	वटु पुगेपछि स्वयम्भू नजिकै छ।	yes	teacher-verified; logged 2026-10-14
+306	spk05	directions_navigation	audio_306.wav	लेकसाइड फेवा पुखुया सिथय् लाः।	लेकसाइड फेवातालको किनारमा पर्छ।	yes	teacher-verified; logged 2026-10-14
+307	spk05	guides_services	audio_307.wav	गाइड्‌यात लाइसेन्स क्यनादिसं न्है।	गाइडलाई लाइसेन्स देखाइदिनुहोस् है।	yes	teacher-verified; logged 2026-10-14
+308	spk05	food_restaurants	audio_308.wav	प्वाः जाल आः मेगु नये मजिल।	पेट भरियो, अब अरू खान मिल्दैन।	yes	teacher-verified; logged 2026-10-14
+309	spk05	directions_navigation	audio_309.wav	सतिक फार्मेसी गन दु?	नजिकैको फार्मेसी कता छ?	yes	teacher-verified; logged 2026-10-14
+310	spk05	hotels_accommodation	audio_310.wav	वाइ‌फाइ बांला त ज्या मयाःस्वयावियादिसँ।	वाइफाइ राम्ररी चल्दैन, हेरिदिनुहोस् न।	yes	teacher-verified; logged 2026-10-14
+311	spk05	directions_navigation	audio_311.wav	जिन्हुम्ह खः शहरय् लं जि मजिउ ।	म नयाँ हुँ, यो सहरको बाटो मलाई थाहा छैन।	yes	teacher-verified; logged 2026-10-14
+312	spk05	guides_services	audio_312.wav	एयरपोर्टय एनसेल व नेपाल टेलिकमया काउन्टर दु।	एयरपोर्टमा एनसेल र नेपाल टेलिकमका काउन्टर छन्।	yes	teacher-verified; logged 2026-10-14
+313	spk05	guides_services	audio_313.wav	ट्रेकिङ्‌‌या यात गाइड गर्न लुइ ?	ट्रेकिङका लागि गाइड कहाँबाट भेटिन्छन्?	yes	teacher-verified; logged 2026-10-14
+314	spk05	shopping_local_markets	audio_314.wav	थ्व देवः छिया नोट खः मेगु हिलावियादिसं न्है।	यो हजारको नोट हो, बदल दिनुहोस् है।	yes	teacher-verified; logged 2026-10-14
+315	spk05	guides_services	audio_315.wav	न्यासि जुइबलय गाइड न्य: ने हे च्वनाः लं क्यनी।	हिँड्दा गाइड अगाडि नै रहेर बाटो देखाउँछन्।	yes	teacher-verified; logged 2026-10-14
+316	spk05	food_restaurants	audio_316.wav	ठमेलया सकतां नसा लुइ।	ठमेलमा सबैखाले खाना पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+317	spk05	tourist_places_culture	audio_317.wav	धौलागिरी विश्वया न्हेगु दकलय तजाःगु च्वापुगुं खः।	धौलागिरि विश्वको सातौँ अग्लो हिमाल हो।	yes	teacher-verified; logged 2026-10-14
+318	spk05	hotels_accommodation	audio_318.wav	छिं ट्राभल एजेन्सीपाखे नं होटल बुक यायेफइ।	यात्रा एजेन्सीबाट पनि होटेल बुक गराउन मिल्छ।	yes	teacher-verified; logged 2026-10-14
+319	spk05	tourist_places_culture	audio_319.wav	मुक्तिनाथाय सछि व च्याधा: लः क्वफाः गु दु ।	मुक्तिनाथमा एक सय आठ धाराको पानी खनिएको छ।	yes	teacher-verified; logged 2026-10-14
+320	spk05	tourist_places_culture	audio_320.wav	बुढानीलकण्ठ्य धनाच्वेम्ह विष्णुया तःधंगु मूर्ति दु।	बुढानीलकण्ठमा सुतेका विष्णुको ठूलो मूर्ति छ।	yes	teacher-verified; logged 2026-10-14
+321	spk05	directions_navigation	audio_321.wav	सत्दोबाटो जुयाः गोदावरी वनेफइ ।	सत्दोबाटो हुँदै गोदावरी जान सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+322	spk05	travel_transportation	audio_322.wav	थ्व गाडी पुल्चोकय वनी कि मवनी ?	यो गाडी पुल्चोक जान्छ कि जाँदैन?	yes	teacher-verified; logged 2026-10-14
+323	spk05	travel_transportation	audio_323.wav	थ्व माइ‌क्रो बानेश्वर जुयाः वनी ।	यो माइक्रो बानेश्वर हुँदै जान्छ।	yes	teacher-verified; logged 2026-10-14
+324	spk05	shopping_local_markets	audio_324.wav	छेँ थ्यनेवं मयाः सा लित बी फइ ला?	घर पुगेपछि मन नपरे फर्काउन मिल्छ?	yes	teacher-verified; logged 2026-10-14
+325	spk05	tourist_places_culture	audio_325.wav	ट्रेकिङ चायेगु बांलाःगु मौसम अक्टोबर निसें नोभेम्बरतक खः।	ट्रेकिङ गर्ने उत्तम मौसम अक्टोबरदेखि नोभेम्बर मानिन्छ।	yes	teacher-verified; logged 2026-10-14
+326	spk05	shopping_local_markets	audio_326.wav	थ्व असली पस्मिना खः कि लवा‌कः बुकः खः?	यो असली पस्मिना हो कि मिश्रण गरेको?	yes	teacher-verified; logged 2026-10-14
+327	spk05	travel_transportation	audio_327.wav	खास्ती वनेगु खः ला? च्वनादिसँ ।	बौद्ध जाने हो? चढ्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+328	spk05	tourist_places_culture	audio_328.wav	पोखरायात नेपाः या पर्यटन राज‌धानी मनियाइ।	पोखरालाई नेपालको पर्यटन राजधानी भनिन्छ।	yes	teacher-verified; logged 2026-10-14
+329	spk05	directions_navigation	audio_329.wav	त्वाः व वृचुक्या लां कंसा अनच्वंपिसं याकनं थुइ।	टोल र चोकको नाम बताए स्थानीयले चाँडै बुझ्छन्।	yes	teacher-verified; logged 2026-10-14
+330	spk05	travel_transportation	audio_330.wav	नगरकोट वनीगु स्थानीय बस ख्वपं वनी।	नगरकोट जाने स्थानीय बस भक्तपुरबाट हिँड्छ।	yes	teacher-verified; logged 2026-10-14
+331	spk04	guides_services	audio_331.wav	सामान तंसा पुलिसया थ्या रिपोर्ट चोकादिसँ ।	सामान हराए तुरुन्त प्रहरीमा रिपोर्ट लेखाउनुहोस्।	yes	teacher-verified; logged 2026-10-14
+332	spk04	hotels_accommodation	audio_332.wav	बहनी द‌्यने न्हो लोखायागु ताया ग्वय् लोमङ्‌का दिमते।	राति सुत्नुअघि ढोकाको ताल्चा लगाउन नबिर्सनुहोस्।	yes	teacher-verified; logged 2026-10-14
+333	spk04	shopping_local_markets	audio_333.wav	सारी व ब्लाउज ज्यागु काप थने दु ।	साडी र ब्लाउजको कपडा यहाँ पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+334	spk04	guides_services	audio_334.wav	यक्वो ताताजागु थासय ग्यामो झोला व अवसिजन नापं नापं ज्वनेमा ।	उच्च उचाइमा ग्यामो झोला र अक्सिजन सँगै बोकिन्छ।	yes	teacher-verified; logged 2026-10-14
+335	spk04	food_restaurants	audio_335.wav	दाल यागु चुं वः दयकी ।	बारा दालको पीठोबाट बनाइन्छ।	yes	teacher-verified; logged 2026-10-14
+336	spk04	directions_navigation	audio_336.wav	खास्ती गन दु, थन तापा ला?	बौद्ध कता पर्छ, यहाँबाट टाढा छ?	yes	teacher-verified; logged 2026-10-14
+337	spk04	food_restaurants	audio_337.wav	कोटे ममः व झोल मम : यागु दां छगु हे खला ?	कोटे मम: र झोल मम: को दर एउटै हो?	yes	teacher-verified; logged 2026-10-14
+338	spk04	guides_services	audio_338.wav	गइड भाडानं काय‌बलय न्ही गुली पुलेमा ?	गाइड भाडामा लिँदा दिनको कति तिर्नुपर्छ?	yes	teacher-verified; logged 2026-10-14
+339	spk04	hotels_accommodation	audio_339.wav	क्ठया जा नये दुला ?	कोठामै खाना खान पाइन्छ?	yes	teacher-verified; logged 2026-10-14
+340	spk04	directions_navigation	audio_340.wav	ख्वप वनेत अरनिको राजमार्ग वनेमा।	भक्तपुर जान अरनिको राजमार्ग समात्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+341	spk04	shopping_local_markets	audio_341.wav	निगु सामान क्या, दां मिलायाना दियादिसँ।	दुईवटा लिन्छु, दरमा केही छुट दिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+342	spk04	tourist_places_culture	audio_342.wav	इन्द्र जात्रा येँया पुलांगु चाड खः।	इन्द्रजात्रा काठमाडौंको पुरानो चाडपर्व हो।	yes	teacher-verified; logged 2026-10-14
+343	spk04	food_restaurants	audio_343.wav	थ्वः तरकारी चिन्वो।	यो तरकारीमा नुन अलि बढी भयो।	yes	teacher-verified; logged 2026-10-14
+344	spk04	directions_navigation	audio_344.wav	तप्यङ्‌क झासँ।	सिधै अगाडि बढ्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+345	spk04	directions_navigation	audio_345.wav	पसले भ्वोंते नक्सा च्वया केनादिल।	पसलेले कागजमा नक्सा कोरेर देखाइदिए।	yes	teacher-verified; logged 2026-10-14
+346	spk04	tourist_places_culture	audio_346.wav	सगरमाथा राष्ट्रिय निकुञ्ज युनेस्को विश्व सम्पदा सूचीमा यागु सूची खे दु।	सगरमाथा राष्ट्रिय निकुञ्ज युनेस्को विश्व सम्पदा सूचीमा छ।	yes	teacher-verified; logged 2026-10-14
+347	spk04	guides_services	audio_347.wav	कालीगण्डकी यागु राफ्टिङ छुं दिन यागु यात्रा खः।	कालीगण्डकीको राफ्टिङ केही दिनको यात्रा हुन्छ।	yes	teacher-verified; logged 2026-10-14
+348	spk04	shopping_local_markets	audio_348.wav	लिपा यागु भा गुलि जुल?	अन्तिम भाउ कति भयो?	yes	teacher-verified; logged 2026-10-14
+349	spk04	guides_services	audio_349.wav	भोटेकोशी खे बन्जी जम्प याये फू।	भोटेकोशीमा बन्जी जम्प गर्न सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+350	spk04	tourist_places_culture	audio_350.wav	रारा ताल गुगु जिल्ला खेला ?	रारा ताल कुन जिल्लामा पर्छ?	yes	teacher-verified; logged 2026-10-14
+351	spk04	hotels_accommodation	audio_351.wav	क्ठयायागु दां नापं बजि नं उकें खला?	नास्ता कोठाको भाडामै समावेश हुन्छ।	yes	teacher-verified; logged 2026-10-14
+352	spk04	travel_transportation	audio_352.wav	ले ट्‌‌याक्सीपीं दइ।	बाटोमा ट्याक्सी सजिलै पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+353	spk04	tourist_places_culture	audio_353.wav	लुङ्‌दर फसं सनिबलय न्यंकन प्रार्थना फैले जुइ धाइ ।	लुङ्दर हावामा फहरिँदा प्रार्थना चारैतिर फैलिन्छ भनिन्छ।	yes	teacher-verified; logged 2026-10-14
+354	spk04	hotels_accommodation	audio_354.wav	सिजनया बलय क्ठयायागु भा अप्य जुइ।	सिजनमा कोठाको भाडा दोब्बरभन्दा बढी हुन्छ।	yes	teacher-verified; logged 2026-10-14
+355	spk04	shopping_local_markets	audio_355.wav	असन बजार गन ला ?	असन बजार कता पर्छ?	yes	teacher-verified; logged 2026-10-14
+356	spk04	travel_transportation	audio_356.wav	तग्वगु ब्यागयात दां अप्व पुलेमा ?	ठूलो ब्यागको लागि थप शुल्क तिर्नुपर्छ?	yes	teacher-verified; logged 2026-10-14
+357	spk04	food_restaurants	audio_357.wav	वेटर, चम्चा व काटा वियादिसँ।	वेटर, एउटा स्पुन र फोर्क ल्याइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+358	spk04	hotels_accommodation	audio_358.wav	मत वन, टर्च वियादिसँ।	बत्ती गएको छ, टर्च दिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+359	spk04	food_restaurants	audio_359.wav	जी साकाहारी ख, ला नये मखु ।	म साकाहारी हुँ, मासु खाँदिनँ।	yes	teacher-verified; logged 2026-10-14
+360	spk04	tourist_places_culture	audio_360.wav	महेन्द्र गुफा चुनढुङ्‌गा न दय‌कुगु गुफा ख।	महेन्द्र गुफा चुनढुङ्गाबाट बनेको गुफा हो।	yes	teacher-verified; logged 2026-10-14
+361	spk04	hotels_accommodation	audio_361.wav	होटेल निसें एयरपोर्ट तक बनेगु सुविधा दुला ?	होटेलबाट एयरपोर्ट पिकअपको सुविधा छ?	yes	teacher-verified; logged 2026-10-14
+362	spk04	food_restaurants	audio_362.wav	विल नापं सर्भिस चार्ज न जोडेयागु खत्ला ?	बिलमा सर्भिस चार्ज पनि जोडिएको रहेछ।	yes	teacher-verified; logged 2026-10-14
+363	spk04	food_restaurants	audio_363.wav	जा तरकारी यागु दां गुलिं ख ?	दालभात तरकारीको दर कति हो?	yes	teacher-verified; logged 2026-10-14
+364	spk04	hotels_accommodation	audio_364.wav	क्ठया यल, थन हे च्वने ।	कोठा मन पर्‍यो, यहीँ बस्छु।	yes	teacher-verified; logged 2026-10-14
+365	spk04	guides_services	audio_365.wav	समूह‌खे वन धासा प्याकेज यागु दर घटे जुइ ।	समूहमा गए प्याकेजको दर घट्छ।	yes	teacher-verified; logged 2026-10-14
+366	spk04	food_restaurants	audio_366.wav	चितवन यागु होमस्टे थारु नसा नय दइ।	चितवनका होमस्टेमा थारु खाना खान पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+367	spk04	tourist_places_culture	audio_367.wav	शेर्पापिं हिमाल-भेग‌यागु बासिन्दा खः अले हिमाल थां वनेत निपुण जुइ ।	शेर्पाहरू हिमाली भेगका बासिन्दा हुन् र हिमाल चढ्नमा निपुण हुन्छन्।	yes	teacher-verified; logged 2026-10-14
+368	spk04	hotels_accommodation	audio_368.wav	चेकइन यायत गन वने मा ?	चेकइन गर्न कहाँ जानुपर्छ?	yes	teacher-verified; logged 2026-10-14
+369	spk04	directions_navigation	audio_369.wav	घण्टाघर गन ला?	घण्टाघर कता पर्छ?	yes	teacher-verified; logged 2026-10-14
+370	spk04	shopping_local_markets	audio_370.wav	रूद्राक्षय माला धार्मिक दृष्टिं महत्त्वपूर्ण गाने यार ।	रुड्राक्षको माला धार्मिक दृष्टिले महत्वपूर्ण मानिन्छ।	yes	teacher-verified; logged 2026-10-14
+371	spk04	tourist_places_culture	audio_371.wav	पाताले छाँगो ले ल जमिने तप्यङ्‌‌क क्वहाँ तनी ।	पाताले छाँगोमा पानी सिधै जमिनमुनि हराउँछ।	yes	teacher-verified; logged 2026-10-14
+372	spk04	tourist_places_culture	audio_372.wav	सापारू वलय मरु पिनेगु सम्झनाय प्याखं व विनोद याइ।	गाइजात्रामा मृतकको सम्झनामा नाच र विनोद गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+373	spk04	travel_transportation	audio_373.wav	डिलक्स वसयागु टिकट्या दां गुलि ख ?	डिलक्स बसको टिकट कति रुपैयाँ पर्छ?	yes	teacher-verified; logged 2026-10-14
+374	spk04	hotels_accommodation	audio_374.wav	हाकन नेपाल वयबलय् थ्वहे होटेलय च्वने ।	फेरि नेपाल आउँदा यही होटेलमा बस्नेछु।	yes	teacher-verified; logged 2026-10-14
+375	spk04	hotels_accommodation	audio_375.wav	चेकआउट या ढुकान लबी च्वया आराम याय दु।	चेकआउट गरेपछि पनि लबीमा बसेर आराम गर्न मिल्छ।	yes	teacher-verified; logged 2026-10-14
+376	spk04	guides_services	audio_376.wav	पोर्टरया न्हीं या ज्याला गुलिं ख?	पोर्टरको दैनिक ज्याला कति हुन्छ?	yes	teacher-verified; logged 2026-10-14
+377	spk04	tourist_places_culture	audio_377.wav	किजा पूजा खुनु तताकेहेँ पिंस किजायात सिन्ह तिकि।	भाइटीकाका दिन दिदीबहिनीले भाइलाई टीका लगाइदिन्छन्।	yes	teacher-verified; logged 2026-10-14
+378	spk04	travel_transportation	audio_378.wav	टुरिसट बस सुथे सिया न्हेताइ‌ले ठमेल वनी।	टुरिस्ट बस बिहान सात बजे ठमेल नजिकैबाट हिँड्छ।	yes	teacher-verified; logged 2026-10-14
+379	spk04	guides_services	audio_379.wav	व्यक्तिगत टुर, ग्रुप टुर सिंहां ठिके जुई।	निजी टुर ग्रुप टुरभन्दा महँगो पर्छ।	yes	teacher-verified; logged 2026-10-14
+380	spk04	tourist_places_culture	audio_380.wav	पाताले छाँगायागु न्हेनेस गुप्तेश्वर महादेव यागु गुफा दु।	पाताले छाँगोको ठीक अर्कोतिर गुप्तेश्वर महादेवको गुफा छ।	yes	teacher-verified; logged 2026-10-14
+381	spk03	directions_navigation	audio_381.wav	बानेश्वरनिंसे कोटेश्वर सतिक लाः।	बानेश्वरदेखि कोटेश्वर नजिकै पर्छ।	yes	teacher-verified; logged 2026-10-14
+382	spk03	hotels_accommodation	audio_382.wav	सुथय झ्याः चायेकेवलय अन्नपूर्ण किया खनेदु ।	बिहान झ्याल खोल्दा अन्नपूर्णको दृश्य देखिन्छ।	yes	teacher-verified; logged 2026-10-14
+383	spk03	travel_transportation	audio_383.wav	ल्यूनेया सिट कयादीमतें इन्जिनपाखेय सिट क्वाइ जुइ	पछाडिको सिट नलिनुहोस्, इन्जिनतिरको सिट तातो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+384	spk03	travel_transportation	audio_384.wav	लपुइ जा नयेत गन दिकीगु ।	बाटोमा खाना खान कहाँ रोकिन्छ?	yes	teacher-verified; logged 2026-10-14
+385	spk03	directions_navigation	audio_385.wav	न्यासि वं वंझी उल्टो दिशाय् वानाचवने ला : ता ।	हिँड्दै जाँदा हामी उल्टो दिशामा गइरहेका रहेछौं।	yes	teacher-verified; logged 2026-10-14
+386	spk03	guides_services	audio_386.wav	ना च्वके न्ह्य प्याकेजया विवरण बालांक बियादिसे ।	नाम लेखाउनुअघि प्याकेजको विवरण राम्ररी पढ्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+387	spk03	hotels_accommodation	audio_387.wav	बाल्कोनी दुगु कोथा दु ला कि मस्ला ?	बाल्कनी भएको कोठा छ कि छैन?	yes	teacher-verified; logged 2026-10-14
+388	spk03	travel_transportation	audio_388.wav	प्रिपेड ट्यक्सी काउन्टर गन दु ?	प्रिपेड ट्याक्सी काउन्टर कहाँ छ?	yes	teacher-verified; logged 2026-10-14
+389	spk03	guides_services	audio_389.wav	लन्ड्री सेवा किलीया दरं काइ।	लन्ड्री सेवा किलोको दरले लिन्छ।	yes	teacher-verified; logged 2026-10-14
+390	spk03	guides_services	audio_390.wav	सिम न्यायेत पासपोर्ट व फोटो माः ।	सिम किन्न पासपोर्ट र फोटो चाहिन्छ।	yes	teacher-verified; logged 2026-10-14
+391	spk03	travel_transportation	audio_391.wav	हुम्ला वनेत नेपालगञ्ज ब्वये माः ।	हुम्ला जान नेपालगन्जबाट उड्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+392	spk03	directions_navigation	audio_392.wav	फोनया व्याट्टी सिधया नक्सा हे बन्द जुल ।	फोनको ब्याट्री सकिँदा नक्सा नै बन्द भयो।	yes	teacher-verified; logged 2026-10-14
+393	spk03	travel_transportation	audio_393.wav	बस गुलि बजे पोखरा थ्यकी ?	बस कति बजे पोखरा पुग्छ?	yes	teacher-verified; logged 2026-10-14
+394	spk03	travel_transportation	audio_394.wav	जुम्ला वनेत सुर्खेत बस व जिप दइ।	जुम्ला जान सुर्खेतबाट बस र जिप पाइन्छ।	yes	teacher-verified; logged 2026-10-14
+395	spk03	hotels_accommodation	audio_395.wav	कोथाया ताचा बियादिसँ रे ।	कोठाको चाबी दिनुहोस् न।	yes	teacher-verified; logged 2026-10-14
+396	spk03	tourist_places_culture	audio_396.wav	सन् १९५६ य तेन्जिङ नोर्गे व एडमन्ड हिलारी सगरमाथा गंःगु खः ।	सन् १९५३ मा तेन्जिङ नोर्गे र एडमन्ड हिलारीले सगरमाथा आरोहण गरेका थिए।	yes	teacher-verified; logged 2026-10-14
+397	spk03	directions_navigation	audio_397.wav	अफलाइन नक्सा डाउनलोड याना: तयातइदिसँ।	अफलाइन नक्सा डाउनलोड गरेर राख्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+398	spk03	tourist_places_culture	audio_398.wav	खोकना व बुङमती आः नं परम्परागत गामं थे हे दु ।	खोकना र बुङमती अझै परम्परागत गाउँजस्तै छन्।	yes	teacher-verified; logged 2026-10-14
+399	spk03	shopping_local_markets	audio_399.wav	खुकुरी चेक इन लगेजय बयेमाः ।	खुकुरी चेक इन लगेजमा राख्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+400	spk03	tourist_places_culture	audio_400.wav	मनुतयगु फोटो काये न्ह्य : न्यना: जक कयादिसं ।	मानिसहरूको फोटो खिच्नुअघि सोधेर मात्र खिच्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+401	spk03	food_restaurants	audio_401.wav	गामंधरय् ब्याहा व नखःचखः बलय् नयेगु याइ ।	गाउँघरमा बिहे र चाडपर्वमा पहुँच खाइन्छ।	yes	teacher-verified; logged 2026-10-14
+402	spk03	directions_navigation	audio_402.wav	तापांः मरु न्या न्यासि वनेगु जक खः ।	टाढा छैन, पाँच मिनेटको हिँडाइ मात्र हो।	yes	teacher-verified; logged 2026-10-14
+403	spk03	travel_transportation	audio_403.wav	डुङ‌गा गयेत निचलं तका पुलेमाः ।	डुङ्गा चढ्न दुई सय रुपैयाँ तिर्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+404	spk03	guides_services	audio_404.wav	गाइडनाप ज्या याइबलय् त्वयातःगु सम्झौता तयतदिसँ	गाइडसँग काम गर्दा लिखित सम्झौता राख्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+405	spk03	tourist_places_culture	audio_405.wav	गुम्बा व देगः भित्र फोटो खिचयाये न्ह्य अनुमति कायगु बालाइ।	गुम्बा र मन्दिरभित्र फोटो खिच्नुअघि अनुमति लिनु राम्रो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+406	spk03	hotels_accommodation	audio_406.wav	चितवनया रिसोर्ट गुं लिक्क हे लाः ।	चितवनका रिसोर्टहरू जङ्गल नजिकै पर्छन्।	yes	teacher-verified; logged 2026-10-14
+407	spk03	travel_transportation	audio_407.wav	गां वनिगु लोकल बसत नं थनांसि हे वनिला कि ?	गाउँ जाने लोकल बसहरू पनि यहीँबाट हिँड्छन् कि?	yes	teacher-verified; logged 2026-10-14
+408	spk03	travel_transportation	audio_408.wav	काकडभिट्टा वनिगू बस ग्व: न्हू न्ह्यःबुक यायेमाः ?	काकडभिट्टा जाने बस कति दिनअगाडि बुक गर्नुपर्छ?	yes	teacher-verified; logged 2026-10-14
+409	spk03	tourist_places_culture	audio_409.wav	येयाँ बलय् कुमारिया रथयात्रा पिकायेंगु याः।	इन्द्रजात्रामा कुमारीको रथयात्रा निकालिन्छ।	yes	teacher-verified; logged 2026-10-14
+410	spk03	guides_services	audio_410.wav	सफारीया लागि जिप व गाइड न्हापां है बुक यायेमा	सफारीका लागि जिप र गाइड अग्रिम बुक गर्नुपर्छ।	yes	teacher-verified; logged 2026-10-14
+411	spk03	directions_navigation	audio_411.wav	च्वकय् हे फुक्क गाडी दिकी।	चोकमा नै सबै गाडी रोकिन्छन्।	yes	teacher-verified; logged 2026-10-14
+412	spk03	hotels_accommodation	audio_412.wav	हुसा सफा मजू न्हुगु बियाँदिस ।	तौलिया सफा छैन, नयाँ दिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+413	spk03	directions_navigation	audio_413.wav	साराङकोट पोखरा शहर सिबें च्वय गुइँ दु ।	सराङकोट पोखरा सहरदेखि माथि पहाडमा छ।	yes	teacher-verified; logged 2026-10-14
+414	spk03	tourist_places_culture	audio_414.wav	नेपाः लय् निपाल्हा: स्वाना नमस्ते यांना: लसकुस याइ ।	नेपालमा दुई हात जोडेर नमस्ते गरेर अभिवादन गरिन्छ।	yes	teacher-verified; logged 2026-10-14
+415	spk03	hotels_accommodation	audio_415.wav	होटलय कसः हियेगु सेवा दु ?	होटेलमा लन्ड्री सेवा छ?	yes	teacher-verified; logged 2026-10-14
+416	spk03	directions_navigation	audio_416.wav	लिक्कया एटीएम गन दु?	नजिकैको एटीएम कता पाइन्छ?	yes	teacher-verified; logged 2026-10-14
+417	spk03	travel_transportation	audio_417.wav	ठमेलय साइकल व मोटरसाइकल भागय् बिइगु युक्व पसः त।	ठमेलमा साइकल र मोटरबाइक भाडामा दिने धेरै पसल छन्।	yes	teacher-verified; logged 2026-10-14
+418	spk03	food_restaurants	audio_418.wav	बोतल बन्द लःजक ह्या बियादिसँ।	बोतल बन्द पानी मात्र ल्याइदिनुहोस्।	yes	teacher-verified; logged 2026-10-14
+419	spk03	tourist_places_culture	audio_419.wav	रारा नेपाःया दकले तःधंगु पुखु खः वलःएकदम वचुखे च्वं ।	रारा नेपालको सबैभन्दा ठूलो ताल हो र पानी एकदम नीलो देखिन्छ।	yes	teacher-verified; logged 2026-10-14
+420	spk03	guides_services	audio_420.wav	गाइड भाय ल्हाम्ह जुगुंलि फुक्क खँ अःपुक मिले याना बी।	गाइड स्थानीय भाषा बोल्ने हुनाले सबै कुरा सजिलै मिलाइदिन्छन्।	yes	teacher-verified; logged 2026-10-14
+421	spk03	food_restaurants	audio_421.wav	जोमसोमया स्याउ यक्व साः ।	जोमसोमको स्याउ निकै मीठो हुन्छ।	yes	teacher-verified; logged 2026-10-14
+422	spk03	shopping_local_markets	audio_422.wav	तःधंगु गलैंचा यायेत ला लाः हे माः ।	ठूलो गलैंचा बुन्न महिनौंसम्म लाग्छ।	yes	teacher-verified; logged 2026-10-14
+423	spk03	directions_navigation	audio_423.wav	तः मागु सिमाया जव पारखे लँ दु ।	ठूलो रूखको दायाँतिर बाटो छ।	yes	teacher-verified; logged 2026-10-14
+424	spk03	travel_transportation	audio_424.wav	पठाओं एपं बाइक व ट्याक्सी सःते फइ।	पाठाओ एपबाट बाइक र ट्याक्सी बोलाउन सकिन्छ।	yes	teacher-verified; logged 2026-10-14
+425	spk03	travel_transportation	audio_425.wav	ट्याक्सी लुखा बालांक तिना दिस ।	ट्याक्सीको ढोका राम्ररी बन्द गर्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+426	spk03	hotels_accommodation	audio_426.wav	तःजा: च्वय् चान्हय् ख्वामुसी च्वानीगुलिं धनेगु म्हिचा थःम्हेस्यां हयेकेमा: ।	उचाइमा रात चिसो हुने हुँदा सुत्ने ब्याग आफैँ लैजानुपर्छ।	yes	teacher-verified; logged 2026-10-14
+427	spk03	travel_transportation	audio_427.wav	मचाया टिकट बच्छि कार ता कि फुरा ?	बच्चाको टिकट आधा लिइन्छ कि पूरा?	yes	teacher-verified; logged 2026-10-14
+428	spk03	food_restaurants	audio_428.wav	छतय थाय् खाली दु ?	छतमा सिट खाली छ?	yes	teacher-verified; logged 2026-10-14
+429	spk03	guides_services	audio_429.wav	परमिट्या कागजात झोलायहे तया: यकोदिसं ।	परमिटका कागज झोलामै राखेर बोक्नुहोस्।	yes	teacher-verified; logged 2026-10-14
+430	spk03	directions_navigation	audio_430.wav	ताँ गन लाः?	पुल कता पर्छ?	yes	teacher-verified; logged 2026-10-14
+431	spk03	shopping_local_markets	audio_431.wav	थ्व मूर्ति गुलि तौलाया जुइ, कुनिया: यंक जिइ ला ?	यो मूर्ति कति तौलको हुन्छ, बोकेर लैजान मिल्छ कि?	yes	teacher-verified; logged 2026-10-14

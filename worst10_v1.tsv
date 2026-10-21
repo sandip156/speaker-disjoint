@@ -1,0 +1,11 @@
+id	speaker	domain	audio_filename	cer	reference	hypothesis	verdict
+349	spk04	guides_services	audio_349.wav	0.7333	भोटेकोशी खे बन्जी जम्प याये फू	भोतकसिखेय् बंचिजनपिं न््याइेफु	correct
+241	spk04	animals_nature	audio_241.wav	0.6	ब्वहः तुयू	बहतुु	correct
+345	spk04	directions_navigation	audio_345.wav	0.5625	पसले भ्वोंते नक्सा च्वया केनादिल	पसा नयं भ्वँतय् नःसा च्वकच्याः क्यनाबिल	correct
+230	spk04	food_cuisine	audio_230.wav	0.5556	झी जा नये	जि जाये नय	correct
+369	spk04	directions_navigation	audio_369.wav	0.5385	घण्टाघर गन ला	गन्ता गर कनला	correct
+64	spk04	shopping_local_markets	audio_64.wav	0.46	छत्व हे पसलय् दिमते निगू-स्वंगू पसल्या भाः लनादिसँ	संघु हे पा्सल् ति मत निगु संगु पासलया भांललाना बिसं	correct
+68	spk04	food_restaurants	audio_68.wav	0.4545	जितः झोल मःम व कोट मःम निगुलिं यः	जितः ज्वन नंमं व क्वतम्ह मव निगुलि यः	correct
+63	spk04	tourist_places_culture	audio_63.wav	0.4348	तुङ्बोचे गुम्बा एभरेष्ट क्षेत्रया मू गुम्बा खः	थुं बचा गु माः उवर क्षेत्रयात मूगु मा खः	correct
+352	spk04	travel_transportation	audio_352.wav	0.4118	ले ट्याक्सीपीं दइ	लेत्या छिपिं दइ	correct
+379	spk04	guides_services	audio_379.wav	0.4103	व्यक्तिगत टुर ग्रुप टुर सिंहां ठिके जुई	ब्यक्तिग तधुर गु तुसें हे थिके जुइ	correct

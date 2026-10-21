@@ -1,0 +1,3 @@
+baseline,cer_A,wer_A,cer_B,wer_B,delta_cer,delta_cer_lo,delta_cer_hi,p_A_better,delta_wer,delta_wer_lo,delta_wer_hi,p_wer_A_better
+empty output,26.75,73.62,100.0,100.0,73.25,71.28,75.21,0.001,26.42,22.63,30.28,0.001
+NepConformer-FT,26.75,73.62,29.84,76.93,3.11,1.75,4.56,0.001,3.34,0.14,6.7,0.021
